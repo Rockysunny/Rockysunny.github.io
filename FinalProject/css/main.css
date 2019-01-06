@@ -1,0 +1,962 @@
+/* Common ------------------------------------------------------------------ */
+	html, body, div, span, applet, object, svg, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, tt, var, b, u, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, burger, nav, output, ruby, section, summary, time, mark, audio, video, {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, img, svg, video {
+		display: block;
+	}
+	body {
+		line-height: 1;
+	}
+	ol, ul {
+		list-style: none;
+	}
+	blockquote, q {
+		quotes: none;
+	}
+	blockquote:before, blockquote:after, q:before, q:after {
+		content: '';
+		content: none;
+	}
+/* Body -------------------------------------------------------------------- */
+
+	iframe { display: none; visibility: hidden; }
+	.off { display: none !important; }
+	.hide { opacity: 0 !important; cursor: initial !important; }
+	.nobr { white-space: nowrap; }
+
+	.survived { background: #445; }
+	.remained { background: #99a; }
+	.died { background: #a87; }
+	.missing { background: #dcb; }
+	.walked { background: #9bd; }
+
+	rect.chitta { fill: #bd6; }
+	path.chitta { stroke: #bd6; }
+	rect.hobby { fill: #8be; }
+	path.hobby { stroke: #8be; }
+	rect.braganza { fill: #b7b; }
+	path.braganza { stroke: #b7b; }
+	rect.quest { fill: #c96; }
+	path.quest { stroke: #c96; }
+	rect.krasin { fill: #f99; }
+	path.krasin { stroke: #f99; }
+	rect.malygin { fill: #66c; }
+	path.malygin { stroke: #66c; }
+	rect.redtent { fill: #f33; }
+	path.redtent { stroke: #f33; }
+	path.italia { stroke: #f33; }
+
+	html {
+		font-family: "georgia", serif;
+		font-size: 16px;
+	}
+
+	body {
+		background: #fff;
+		color: #334;
+		margin:0;
+	}
+	header p{
+		text-align: justify;
+	}
+	main p{
+		text-align: justify;
+	}
+	header {
+		font-family: "trajan-sans-pro", sans-serif;
+		font-weight: 500;
+		text-align: center;
+		position: relative;
+		animation: splash 2s forwards ease-out;
+	}
+		header #title {
+			background: transparent url("../img/title.jpg") center center no-repeat;
+			background-size: cover;
+			background-position-x: 45%;
+			display: flex;
+			flex-flow: column;
+			align-items: center;
+			justify-content: center;
+			min-height: calc(100vh - 10rem);
+			padding: 5rem 0;
+		}
+			header #title h1 {
+				font-size: 12.6vmin;
+				line-height: 12.6vmin;
+				letter-spacing: 2.1vmin;
+				color: #fff;
+				text-shadow: 0 1px 3px rgba(0, 0, 26, .5);
+				opacity: 0;
+				width: calc(100% - 40px);
+				padding-top: 100px;
+				animation: splash 3s 1s forwards ease-out;
+			}
+				header #title h1 span {
+					font-weight: 700;
+					font-size: 4vmin;
+					line-height: 5vmin;
+					letter-spacing: 1.5vmin;
+					display: block;
+					margin-top: 3vmin;
+				}
+		header #lead {
+			background: #334 url("../img/horizon.svg") center bottom repeat-x;
+			background-size: 1800px auto;
+			display: flex;
+			align-items: center;
+			height: calc(100vh - 10rem);
+			padding: 5rem 0;
+		}
+			header #lead p {
+				font-weight: 700;
+				font-size: 1rem;
+				line-height: 1.5rem;
+				letter-spacing: 1px;
+				color: #fff;
+				text-shadow: 0 1px 2px rgba(0, 0, 0, .5);
+				width: calc(100% - 40px);
+				max-width: 715px;
+				margin: 0 auto;
+			}
+	@media (min-width: 1025px) {
+		header {
+			background: transparent url("../img/title.jpg") center center no-repeat;
+			background-size: cover;
+			background-position-x: 45%;
+			background-attachment: fixed;
+		}
+			header #title {
+				background: none;
+			}
+				header #title h1 {
+					font-size: 6rem;
+					line-height: 6rem;
+					letter-spacing: 1rem;
+				}
+					header #title h1 span {
+						font-size: 2rem;
+						line-height: 2.5rem;
+						letter-spacing: .6rem;
+						margin-top: 1rem;
+					}
+			header #lead {
+				background: url("../img/horizon.svg"), linear-gradient(to bottom, rgba(0, 0, 16, 0) 50%,  rgba(0, 0, 16, .85) 100%);
+				background-position: center bottom;
+				background-repeat: repeat-x;
+				background-size: 1800px auto;
+			}
+				header #lead p {
+					font-size: 1.25rem;
+					line-height: 2rem;
+					letter-spacing: 1px;
+				}
+	}
+		
+	footer {
+		font-weight: 500;
+		background: #334;
+		color: #99a;
+		margin: 0 auto;
+		font-size: 9pt;
+	}
+	#credit{
+		font-size: 9pt;
+		text-align:center;
+		width: calc(100% - 20px);
+		max-width: 980px;
+		margin: 0 auto 0.5rem auto;
+	}
+	#credit p{
+		margin: 0 auto 0.2rem auto
+	}
+	#source{
+		
+		text-align:center;
+		margin: 0.5rem auto;
+	}
+	#source p{
+		margin: 0.2rem auto;
+	}
+	
+	#web_learning{
+		font-family: "arial", "helvetica", sans-serif;
+		text-align: center;
+		margin: 0.5rem auto 0 auto;
+	}
+
+	#web_learning a{
+		color: #fff;
+	}
+
+	#copyright{
+		font-family: "arial", "helvetica", sans-serif;
+		text-align: center;
+		margin: 0.5rem auto 0 auto;
+		padding: 0 0 0.5rem 0; 
+	}
+
+
+/* Map --------------------------------------------------------------------- */
+
+	.interactive {
+		margin: 0 0 3rem 0;
+	}
+		.interactive .map {
+			position: relative;
+			display: flex;
+			justify-content: center;
+			width: 100%;
+			height: 100vh;
+		}
+			.map svg {
+				height: 100vh;
+				margin: 0 auto;
+			}
+/*				.map line {
+					stroke: #000;
+				}*/
+				/*.map .marks > * {
+					transition: opacity .5s ease-in-out;
+				}
+					.map text {
+						font-size: 6.5px;
+						text-align: center;
+						fill: #fff;
+					}
+					.map tspan {
+						font-size: .75rem;
+						line-height: 1rem;
+					}*/
+				.map circle {
+					cursor: pointer;
+					/*stroke: #fff;
+					fill: #f00;*/
+					transition: all 0.3s ease-in-out;
+				}
+					.map circle:hover {
+						opacity: 0;
+					}
+					.map .hide circle {
+						cursor: initial;
+					}
+					.map .marks g:not(:last-of-type) .old {
+						transform: scale(0.6);
+					}
+				.map .titles path {
+					fill: none;
+					stroke: none;
+				}
+				.map .paths path {
+					opacity: 0;
+					fill: none;
+					stroke-linecap: round;
+					stroke-linejoin: round;
+				}
+				.map .marks path {
+					fill: none;
+					stroke-linecap: round;
+					stroke-linejoin: round;
+				}
+				.map .titles text {
+					font-family: "trajan-sans-pro", sans-serif;
+					font-weight: 700;
+					font-size: 5px;
+					letter-spacing: 1px;
+					text-anchor: middle;
+					fill: #fff;
+					opacity: .5;
+				}
+
+		.interactive .event {
+			background: rgba(51, 51, 68, .85);
+			position: relative;
+			width: calc(100% - 80px);
+			max-width: 470px;
+			margin: 0 20px 100vh 20px;
+			padding: 20px;
+			color: #fff
+		}
+		/*vh为1%的视窗高度，这里可以让内容始终有一个视窗高度间隔*/
+			.interactive .event h3 {
+				font-weight: 700;
+				font-size: 1rem;
+				line-height: 1.5rem;
+			}
+			.interactive .event p {
+				font-size: 1rem;
+				line-height: 1.5rem;
+				margin: 0 0 1.5rem 0;
+			}
+				.interactive .event p:last-of-type {
+					margin: 0;
+				}
+			.interactive .event figure {
+				width: 100%;
+				max-width: 470px;
+				margin: 1.5rem auto;
+			}
+				figure img {
+					width: 100%;
+				}
+
+		#mapsvg {
+			background: #334 center center no-repeat;
+			background-image: url("../img/Antarctic_map03.jpg");
+			background-size: auto 100vh;
+		}
+
+		#svalbard {
+			background: #334 center center no-repeat;
+			background-image: url("../img/.svg"), url("../img/svalbard.jpg");
+			background-size: auto 100vh;
+		}
+			#svalbard #t3 text,
+			#svalbard #t4 text,
+			#svalbard #t5 text {
+				font-weight: 500;
+				font-size: 10px;
+				letter-spacing: 5px;
+				opacity: .25;
+			}
+			#svalbard #t6 {
+				font-size: 8px;
+				letter-spacing: 5px;
+			}
+			#svalbard #chitta,
+			#svalbard #quest,
+			#svalbard #braganza,
+			#svalbard #hobby,
+			#svalbard #krasin,
+			#svalbard #malygin,
+			#svalbard #redtent {
+				stroke-linecap: square;
+			}
+			#svalbard #waves circle {
+				fill: none;
+				stroke: #fff;
+				stroke-width: .5;
+			}
+				#svalbard #waves circle:nth-child(1) {
+					animation: wave1 1s infinite linear;
+				}
+				#svalbard #waves circle:nth-child(2) {
+					animation: wave2 1s infinite linear;
+				}
+				#svalbard #waves circle:nth-child(3) {
+					animation: wave3 1s infinite linear;
+				}
+			#svalbard #iceborder path {
+				fill: none;
+				stroke: #fff;
+				stroke-width: .5;
+				stroke-dasharray: 0,2;
+			}
+	
+/* Section ----------------------------------------------------------------- */
+
+	section {
+		position: relative;
+		padding: 1rem 0 1rem 0;
+	}
+		section h2 {
+			font-family: "trajan-sans-pro", sans-serif;
+			font-weight: 700;
+			font-size: 1.25rem;
+			line-height: 2rem;
+			letter-spacing: 3px;
+			text-align: center;
+			width: calc(100% - 40px);
+			max-width: 715px;
+			margin: 0 auto 1rem auto;
+		}
+		section > p {
+			font-size: 1rem;
+			line-height: 1.5rem;
+			width: calc(100% - 40px);
+			max-width: 470px;
+			margin: 1rem auto;
+		}
+
+		
+	#chapter0 {
+		background: #fff url("../img/crack.svg") center bottom repeat-x;
+		background-size: 1800px 100px;
+		transition: all 1s ease-in-out;
+	}
+	#chapter1 {
+		background-size: 1800px 100px;
+		transition: all 1s ease-in-out;
+		background-color: #fff;
+		padding-top:0;
+	}
+
+		#chapter0.fade,
+		#chapter1.fade,
+		#chapter2.fade,
+		#chapter3.fade,
+		#chapter4.fade {
+			color: #ccd;
+			background-color: #334;
+		}
+	#chapter2 {
+		background: #fff url() center bottom repeat-x;
+		background-size: 1800px 100px;
+	}
+	#chapter3 {
+		background: #fff url("../img/edge.svg") center bottom repeat-x;
+		background-size: 1800px 100px;
+	}
+
+/* Multicolumns ------------------------------------------------------------ */
+
+	.row {
+		display: flex;
+		flex-flow: row wrap;
+		justify-content: center;
+		width: 100%;
+		max-width: 980px;
+		margin: 0.5rem auto;
+	}
+		.row .col,
+		.row figure {
+			flex-basis: 225px;
+			flex-grow: 0;
+			flex-shrink: 1;
+			margin: 1rem 0;
+		}
+			.row figure img {
+				width: 100%;
+			}
+		.row .zoom {
+			flex-basis: 470px;
+		}
+	@media (min-width: 980px) {
+		.row {
+			width: calc(100% - 20px);
+		}
+			.row figure {
+				margin: 1rem 10px;
+			}
+				.row .zoom:first-child img {
+					transform-origin: 0 50%;
+				}
+				.row .zoom:last-child img {
+					transform-origin: 100% 50%;
+				}
+	}
+		
+/* Figure ------------------------------------------------------------------ */
+
+	figure {
+		width: 100%;
+		max-width: 470px;
+		margin: 1rem auto;
+	}
+		figure.team {
+			width: calc(100% - 40px);
+		}
+		figure.big {
+			max-width: 960px;
+			transition: none !important;
+		}
+			figure.big img {
+				cursor: initial !important;
+			}
+		figure img {
+			width: 100%;
+		}
+		figure figcaption,
+		.scheme .caption {
+			font-family: 'proxima-nova', sans-serif;
+			font-style: normal;
+			font-weight: 500;
+			font-size: 0.8rem;
+			line-height: 1.5rem;
+			text-align: center;
+			color: #99a;
+			margin: .75rem 0 0 0;
+		}
+
+		.zoom img {
+			cursor: initial;
+		}
+			.zoom img.magnify {
+				cursor: initial;
+				transform: none;
+			}
+		@media (min-width: 960px) {
+			.zoom img {
+				cursor: zoom-in;
+				transform-origin: 50% 50%;
+				transition: transform .5s ease-in-out;
+			}
+				.zoom img.magnify {
+					cursor: zoom-out;
+					transform: scale(2.0425532) !important;
+				}
+		}
+	
+/* Help -------------------------------------------------------------------- */
+
+	.help text {
+		letter-spacing: .5px;
+		text-transform: uppercase;
+		fill: #fff;
+	}
+		.team .help text {
+			fill: #334;
+		}
+		.map .help text {
+			font-size: .375rem;
+		}
+	.help path {
+		fill: #fff;
+	}
+		.team .help path {
+			fill: #334;
+		}
+		.map .help path {
+			fill: #fff;
+		}
+
+		.team .help line {
+			stroke: #334;
+		}
+
+/* Interactives ------------------------------------------------------------ */
+
+	svg text {
+		font-family: 'proxima-nova', sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		font-size: .75rem;
+		fill: #334;
+	}
+
+	#camp svg text {
+		font-size: 1.25rem;
+		text-align: center;
+	}
+	
+	#popup {
+		font-family: 'proxima-nova', sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		font-size: .75rem;
+		line-height: 1rem;
+		background: #fff;
+		color: #334;
+		box-shadow: 0 1px 5px rgba(0, 0, 0, .5);
+		position: absolute;
+		top: 0;
+		left: 0;
+		display: flex;
+		flex-flow: column;
+		max-width: 225px;
+	}
+		#popup > div {
+			padding: 10px;
+		}
+			#popup .info {
+				border-top: 1px dotted #99a;
+			}
+			#popup .passport {
+				display: flex;
+				flex-flow: row nowrap;
+			}
+				#popup .passport img {
+					flex-basis: 75px;
+					flex-grow: 0;
+					flex-shrink: 0;
+					width: 75px;
+					height: 75px;
+					margin: 0 10px 0 0;
+				}
+				#popup .passport span {
+					display: block;
+				}
+				#popup .passport .name {
+					font-weight: 700;
+					text-transform: uppercase;
+				}
+				#popup .passport .role {
+					margin-top: 10px;
+				}
+
+	.team figcaption {
+		font-family: 'proxima-nova', sans-serif;
+		font-style: normal;
+		font-weight: 500;
+		font-size: .75rem;
+		line-height: 1rem;
+		text-align: left;
+		color: #334;
+		display: flex;
+		flex-flow: row wrap;
+		margin: 0;
+	}
+		.team figcaption > div {
+			display: flex;
+			flex-flow: row nowrap;
+			align-items: center;
+			margin: 5px 0 0 0;
+			padding: 0 20px 0 0;
+		}
+			.team figcaption > div div:first-of-type {
+				flex-grow: 0;
+				flex-shrink: 0;
+				border-radius: 10px;
+				width: 15px;
+				height: 15px;
+				margin: 0 5px 0 0;
+			}
+			.team figcaption > div div:last-of-type {
+				flex-grow: 1;
+				flex-shrink: 1;
+			}
+		.team svg .help,
+		.team svg text {
+			display: none;
+		}
+		.team svg > path:hover {
+			cursor: pointer;
+			fill: #c00;
+		}
+		@media (min-width: 960px) {
+			.team svg .help,
+			.team svg text {
+				display: initial;
+			}
+		}
+
+	.scheme {
+		overflow: hidden;
+		width: 100%;
+		max-width: 100%;
+		margin: 3rem auto;
+	}
+		.scheme svg {
+			cursor: grab;
+			cursor: -moz-grab;
+			cursor: -webkit-grab;
+			position: relative;
+			top: 0;
+			left: 0;
+			width: auto;
+			height: 425px;
+		}
+		#cut svg {
+			background: transparent url("../img/italia-cut.jpg") top left no-repeat;
+			background-size: cover;
+		}
+		#panoram svg {
+			background: transparent url("../img/overwiew.jpg") top left no-repeat;
+			background-size: cover;
+		}
+			.scheme svg:active {
+				cursor: grabbing;
+				cursor: -moz-grabbing;
+				cursor: -webkit-grabbing;
+			}
+			.scheme svg image {
+				transition: opacity .5s ease-in-out;
+			}
+				.scheme svg:hover image {
+					opacity: 0;
+				}
+			.scheme svg line {
+				stroke: #fff;
+			}
+			.scheme svg path {
+				fill: #fff;
+			}
+			.scheme svg circle {
+				cursor: pointer;
+				stroke: #fff;
+				fill: #c00;
+				transition: opacity .1s ease-in-out;
+			}
+				.scheme svg circle:hover {
+					opacity: 0;
+				}
+			.scheme .legend .airship {
+				font-family: "trajan-sans-pro", sans-serif;
+				font-weight: 700;
+				font-size: .85rem;
+				letter-spacing: 1px;
+			}
+			.scheme .legend .number {
+				font-weight: 700;
+				font-size: .85rem;
+			}
+
+/* Bloquote ---------------------------------------------------------------- */
+
+	blockquote {
+		display: flex;
+		flex-flow: row nowrap;
+		align-items: stretch;
+		width: calc(100% - 40px);
+		max-width: 960px;
+		margin: 3rem auto;
+	}
+		blockquote figure {
+			display: none;
+			flex-direction: column;
+			flex-basis: 0;
+			flex-grow: 0;
+			flex-shrink: 1;
+			justify-content: center;
+			min-width: 100px;
+			margin: 0 auto;
+		}
+		blockquote p {
+			font-family: "trajan-sans-pro", sans-serif;
+			font-weight: 700;
+			font-size: 1rem;
+			line-height: 2rem;
+			letter-spacing: .5px;
+			background: transparent url("../img/talk.svg") center left no-repeat;
+			background-size: 22px 600px;
+			flex-basis: 695px;
+			flex-grow: 0;
+			flex-shrink: 1;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			padding: 1rem 0 1rem 40px;
+		}
+			.fade blockquote p {
+				background: transparent url("../img/talk_.svg") center left no-repeat;
+				background-size: 22px 600px;
+			}
+			blockquote p span {
+				font-family: 'proxima-nova', sans-serif;
+				font-style: normal;
+				font-weight: 500;
+				font-size: .75rem;
+				line-height: 1rem;
+				letter-spacing: 0;
+				color: #99a;
+				display: block;
+				margin: 1rem 0 0 0;
+			}
+		@media (min-width: 510px) {
+			blockquote figure {
+				display: flex;
+				flex-basis: 225px;
+			}
+				blockquote figure img {
+					border-radius: 50%;
+					display: block;
+					max-width: 100px;
+					margin: 0 auto;
+				}
+				blockquote p span {
+					display: none;
+				}
+		}
+	/*这个是最后一个轮子小动画*/
+	#rose {
+		background: transparent url("../img/72.svg") no-repeat;
+		background-size: cover;
+		width: 50px;
+		height: 50px;
+		margin: 5rem auto;
+		animation: bounce 1.6s infinite ease-in-out;
+	}
+
+/* Animations -------------------------------------------------------------- */
+
+	@keyframes loading {
+		from {transform: rotateX(0) rotateY(0)}
+		25% {transform: rotateX(0) rotateY(360deg)}
+		50% {transform: rotateX(360deg) rotateY(360deg)}
+		to {transform: rotateX(360deg) rotateY(360deg)}
+	}
+
+	@keyframes scrolling {
+		from {background-position-y: 0}
+		50% {background-position-y: 50px}
+		to {background-position-y: 50px}
+	}
+
+	@keyframes splash {
+		from {opacity: 0}
+		to {opacity: 1}
+	}
+
+	@keyframes monster {
+		from {background-position: 0 0;}
+		20% {background-position: 0 -900px;}
+		to {background-position: 0 -900px;}
+	}
+
+	@keyframes wheel {
+		from {transform: rotate(0);}
+		to {transform: rotate(60deg);}
+	}
+
+	@keyframes gillis {
+		from {transform: scale(1);}
+		to {transform: scale(1.5);}
+	}
+
+	@keyframes wave1 {
+		from {r: 0; opacity: 0;}
+		to {r: 4; opacity: .6;}
+	}
+
+	@keyframes wave2 {
+		from {r: 4; opacity: .6;}
+		50% {opacity: 1;}
+		to {r: 8; opacity: .6;}
+	}
+
+	@keyframes wave3 {
+		from {r: 8; opacity: .6;}
+		to {r: 12; opacity: 0;}
+	}
+	@keyframes bounce {
+            0% {
+                transform: translate(0px, 0px);
+            }
+            25% {
+                transform: translate(0px, 0px);
+            }
+            50% {
+                transform: translate(0px, -10px);
+            }
+            100% {
+                transform: translate(0px, 0px);
+            }
+        }
+/*d3-----------------------------------------------------------------------------------------------------------------*/
+	.legendLinear text {
+	   	font-size: 9px;
+			}
+    .tooltip {
+        position: absolute;
+        z-index: 10;
+            }
+
+
+
+    .tooltip p {
+                background-color: white;
+                color: #334;
+                border: #334 1px solid;
+                padding: 2px;
+                line-height:1.5;
+            }
+
+    .tooltip p span{
+    			color: black;
+    }
+
+
+/*堆叠图*/
+    .axis path,
+    .axis line {
+              fill: none;
+              stroke: #000;
+              shape-rendering: crispEdges;
+            }
+
+    .label{
+                font-size: 9pt;
+                fill: grey;
+                text-anchor: end;
+
+            }
+    #touristchart svg{
+    	margin: 0 auto;
+		padding: 0 auto ;
+		border: 0;
+		font-size: 100%;
+    }
+    .satck_button{
+        	margin: 1rem auto;
+        	text-align: center;
+        }
+    .satck_button span{
+/*    	color:#fff;*/
+		margin:0 auto;
+		padding: 0.4em;
+    	border: #306084 2px solid ;
+    	font-size: 0.8em;
+    }
+    .satck_button span:hover{
+    	cursor: pointer;
+    }
+
+/*d3mao--------------------------------------------------------------------------------------------------------------*/
+	#elevationchart {
+		background: center center no-repeat;
+		background-color: white;
+		background-image: url("../img/nanjijiemian03.jpg");
+		background-position:-12% 68%;
+		background-size: 770px 325px;
+
+	}
+
+	.dots {
+		fill: rgba(48, 96, 132, 0.7);
+		stroke: white;
+		stroke-width: 0.5;
+		opacity: 1;
+	}
+
+	.highlighted {
+		fill: rgba(251, 54, 29, 0.8);
+		stroke: white;
+		stroke-width: 0.5;
+		opacity: 1;
+		animation: splash 0.5s 1s infinite ease-out;
+		animation-direction:alternate;
+		animation-iteration-count: 10;
+	}
+
+	.axis path,
+	.axis line {
+		fill: none;
+		stroke: black;
+		shape-rendering: crispEdges;
+	}
+
+	.axis text {
+		font-family: sans-serif;
+		font-size: 11px;
+	}
+
+	.xlabel{
+		font-size: 15px;
+		fill: gray;
+	}
+	.ylabel{
+		font-size: 15px;
+		fill: gray;
+	}
+	.e_intro{
+		font-size: 15px;
+		fill: black;
+		opacity:0;
+		animation: splash 5s ease-in-out 0s 1 alternate forwards;
+	}
+	@keyframes splash {
+	from {opacity: 0}
+	to {opacity: 1}
+	}
+/**/
+	.gap {
+		padding-top: 3rem;
+		}
+	.dots:hover{
+		cursor: pointer;
+	}
