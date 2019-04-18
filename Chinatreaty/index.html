@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<!-- 这里用来设置全局变量 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<meta name="description" content="这里用来描述这个网页">
+	<!-- 以下为css -->
+	<link rel="stylesheet" href="" />
+	<link rel="stylesheet" href="css/main.css" />
+	<!-- 以下为js库 -->
+	<script src="scripts/ScrollMagic.min.js"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.1.0/d3.js"></script>
+	<script src="scripts/sankey.js"></script>
+	<!-- jquery线上lib -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- for sort -->
+    <script src="scripts/isotope.pkgd.min.js"></script>
+	<title>七千外交条约：七十周年风云</title>
+	<style>
+
+
+		.icon img{
+			margin:0 auto;
+			width: 100px;
+			height: 100px;
+		}
+
+		.node rect {
+		  fill-opacity: .9;
+		  shape-rendering: crispEdges;
+		};
+		.node text {
+		  pointer-events: none;
+		  text-shadow: 0 1px 0 #fff;
+		}
+		.link {
+		  fill: none;
+		  stroke-opacity: .1;
+		  stroke: #666;
+		}
+		.link:hover {
+		  stroke-opacity: .5;
+		}
+	    .chart {
+          float: left;
+          padding-right: 8px;
+          padding-bottom: 8px;
+          padding-top:8px;
+          padding-left:8px;
+        }
+
+        .background {
+          fill: none;
+        }
+
+        .title {
+          font-size: 12px;
+        }
+
+        .axis line, .grid line {
+          stroke-width: .5px;
+          shape-rendering: crispEdges;
+          stroke: #fff;
+          opacity: 0.5;
+          pointer-events: none;
+        }
+
+        .axis path {
+          display: none;
+        }
+
+        .hidden {
+          display:none;
+          opacity: 0.0;
+        }
+
+        .label {
+            fill: steelblue;
+        }
+
+        .endpoint {
+            fill: #666;
+        }
+	</style>
+</head>
+<body>
+	<header>
+		<!-- 这是标题 -->
+		<div id="title">
+				<h1>七千外交条约<br>七十周年风云</h1>
+		</div>
+	</header>
+
+	<main>
+		<!-- 以下为第一部分内容：讲述阿蒙森的故事 -->
+		<section id="chapter0">
+			<div class="icon" >
+				<img src="img/象棋图标.png">
+			</div>
+			<p>1949年10月16日，新中国成立的第16天，首任苏联驻华大使罗申将国书递交给时任中国主席毛泽东时，新中国史上的第一次外交活动就此拉开序幕。</p>
+			<p>同年12月25日，中国与朝鲜签下了第一条正式外交条约《中华人民共和国邮电部与朝鲜民主主义人民共和国递信省通邮协定》，为此后与各国的持续交流与发展奠定下了基础。</p>
+			<p>双边条约与大国外交，在70年的共和国外交史中扮演了十分重要的角色，也见证着一个大国崛起的发展历程。从“一边倒”到“人类命运共同体”，中国的条约朋友圈，侧写的是中国对外开放历史进程。</p>
+			<br>
+			<h2>朋友圈的扩大：走近世界舞台中央</h2>
+			<br>
+			<p>自1949年新中国成立以来，中国奉行“另起炉灶”“打扫干净屋子再请客”“一边倒”的外交政策。同时，不承认一切中华民国政府或清政府与外国签订的不平等条约，决定重新构建新中国的“朋友圈”。</p>
+			<p>根据建国初期的外交政策，在与苏联建交后，中国便开始广泛与社会主义国家建立外交关系。通过外交部条约数据库显示，在新中国成立的前五年里，签订的119项双边条约中与非社会主义国家签订的条约仅有5条。而在此后几十年里，中国的外事关系也主要集中在社会主义国家与第三世界国家。</p>
+			
+			<div class="zoom">
+				<figure>
+					<img src="img/万隆会议.jpg" alt="" />
+					<figcaption>万隆会议</figcaption>
+				</figure>
+			</div>
+			<p>1971年在第三世界国家的帮助下，中国成功恢复联合国合法席位。至此，中国正式走进了国际视野。与此同时，中国在国际事务中的参与度显著提高，使中国与非社会主义阵营的国家也有了更多的交流。自此之后，中国先后与日本、美国建立了外交关系。</p>
+		    <figure id="bubblechart">
+		      	<svg id="vis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="	http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 940 450" enable-background="new 0 0 940 450" xml:space="preserve" preserveAspectRatio="xMidYMid slice"></svg>
+		    </figure>
+			<p id="trigger">当时间线走到1978年这个节点，中国开始实行“改革开放”，并提出“坚持独立自主的和平外交政策”。至此，中国正式开始超越社会制度和意识形态，广泛与世界各国建立和发展外交关系。国家间的缔约数量不断增加，各类外交条约相比于“改革开放”前不再大量集中于社会主义国家范围内。</p>
+    		<br>
+    		<div class="zoom">
+				<figure>
+					<img src="img/改革开放.jpg" alt="" />
+					<figcaption>改革开放</figcaption>
+				</figure></div>
+			<p>20世纪80年代末90年代初，中国外交事业在东欧剧变、苏联解体、两极格局瓦解等一系列事件的影响下，“朋友圈”的范围再一次开始拓展。</p>
+			<p>2001年，中国正式加入WTO组织，与世界各国进一步发展外交关系。2013年，中国提出“一带一路”倡议，使得外交事业又一次进入了一个崭新的发展阶段。</p>
+			<br>
+			<div class="zoom">
+				<figure>
+					<img src="img/WTO.jpg" alt="" />
+					<figcaption>中国加入WTO</figcaption>
+				</figure></div>
+		</section>
+
+		<section id="chapter2">
+			<div class="icon" >
+				<img src="img/象棋2.png">
+			</div>
+			<h2>领域的多样化：国际互信的深入合作</h2>
+			<div>
+            	<figure id="mutiplevis" class="clearfix" style="max-width:700px"></figure>
+		    </div>
+		    <p>通过条约数据库的数据可以看出，投资贸易、经济、文化、政治、卫生等领域一直是中国与世界各国缔结条约中的重要部分。实际上，随着中国对外政策与国情的不断变化，中国与各国的交往重点也在逐渐变迁。合作深度不断加强，合作方式更加多元，缔约条约领域更加广泛。</p>
+		    <p>从时间线上可以发现，1978年以前，投资贸易领域是中外缔约的重点。中国与同为社会主义阵营的罗马尼亚，在短短的30年（1949~1978）中就签订了52部贸易方面的合作协议，占两国全部签订协议的61%。但随着改革开放的到来，市场已逐渐成为经济的主要部分。中国企业逐渐可以自行与国际市场进行经济活动往来，因此，政府间的投资贸易条约逐渐减少。</p>
+		    <br>
+			<div class="zoom">
+				<figure>
+					<img src="img/香港回归.jpg" alt="" />
+					<figcaption>香港回归</figcaption>
+				</figure></div>
+		    <p>在领事领域，自1997年香港回归后，与之相关的领事关系需要更新与重构，领事条约数量激增。20世纪末至今，恐怖活动愈加猖獗，中国也开始不断加强与世界各国在国际反恐和打击犯罪领域的合作。</p>
+		    <p>中国国际战略研究所副所长苏晓晖表示，“从1949年到2019年，与中国缔结条约国家数量的增加体现了中国对外交往和朋友圈的扩大，而条约领域的多样性趋势也显示了中国的国际合作从前期着重双边关系定位往经济、人文、卫生和科技等多方向全方位发展。”</p>
+		    <p>中国的对外合作领域在经历了经贸、政治互信的合作后，逐步向卫生、文化、人权、反恐和知识产权方向延伸。苏晓辉称，这表明中国的对外交往不仅是横向的扩大，也是在合作方式上的不断深入。</p>
+
+		</section>
+
+		<section id="chapter3">
+			<div class="icon" >
+				<img src="img/象棋3.png">
+			</div>
+			<h2>70年来，各领域的条约都分布在哪些国家？</h2>
+			<figure id="sankeychart" >
+		      <svg id="sankeyvis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="	http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 900" enable-background="new 0 0 1000 900" xml:space="preserve" preserveAspectRatio="xMidYMid slice"></svg>
+		    </figure>
+		    <br>
+		    <p>通过分析与中国缔结条约数量最多的10个政治实体及其合作领域分布情况，可以看出投资贸易分类主要为贸易协定；经济领域主要包括贷款、援助、外汇、商务和关税等相关条约和经济技术合作协定等。</p>
+		    <p>通过数据发现，俄罗斯一直以来都与中国保持着密切的合作关系。近20年两国签订各类条约179个，频率位列第一。从具体的领域来看，中俄两国在政治、经济领域条约最多。</p>
+		    <p>中美关系也是中国对外交往的一大主轴。随着中美贸易摩擦不断升温，对未来中美关系的唱衰之声不绝于耳。实际上，中美在科技、经贸等领域都有着全面深入的合作。苏晓辉认为，从中美之间签署条约数量的历史发展来看，主张中美脱钩是不现实的。</p>
+		    <p>此外，数据表明与中国缔结条约数量最多的国家大多为中国的周边国家。</p>
+		    <p>苏晓晖表示，国家间的相互依存是一种现实现象，全球性相互依赖加强，各国日益相互依存、命运与共，越来越成为你中有我、我中有你的命运共同体。</p>
+
+		</section>
+
+		<!-- <section id="chapter4">
+			<h2>结语</h2>
+			<p>呈现内容进行专家采访，给出一些与Part.I / Part.II数据及背景部分的相关解释与评论
+			呈现形式：文字</p>
+		</section> -->
+	
+	</main>
+
+	<!-- 以下为footer，需修改CSS样式 -->
+	<footer>
+		<div id="credit">
+			<p>作者：孙逸轩&nbsp;段辉然&nbsp;赵红&nbsp;马佳昆</p>
+		</div>
+		<div id="credit">
+			<p>指导：黄志敏&nbsp;方洁&nbsp;霍默静&nbsp;</p>
+		</div>
+		<div id="source">
+			<p style="font-weight:500">数据来源:中华人民共和国外交部条约数据库</p>
+		</div>
+		<div>
+			<p id="copyright">&#169;中国传媒大学新闻学院数据新闻专业,2019</p>
+		</div>
+	</footer>
+	<!-- 下列代码为显示控制代码 -->
+	<script src="scripts/bubble.js"></script>
+	<script src="scripts/tooltip.js"></script>
+</body>
+</html>
