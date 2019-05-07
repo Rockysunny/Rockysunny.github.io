@@ -1,0 +1,728 @@
+﻿ID,Scientificname,Commonname,ex_grade,grade,year,trueyear,type,nowgrade,index1,index2,ex_danger,danger,trueyear
+1,Cephalophus spadix,Abbott’s Duiker,VU,EN,1,2007,MAMMALS,EN,变差,0,受威胁,受威胁,0
+5,Procapra picticaudata,Tibetan Gazelle,LC,NT,1,2007,MAMMALS,NT,变差,0,不受威胁,不受威胁,0
+13,Gavialis gangeticus,Gharial,EN,CR,1,2007,REPTILES,CR,变差,0,受威胁,受威胁,0
+9,Neophron percnopterus,Egyptian Vulture,LC,EN,1,2007,BIRDS,EN,变差,1,不受威胁,受威胁,0
+2,Gazella spekei,Speke’s Gazelle,VU,EN,2,2007,MAMMALS,EN,变差,0,受威胁,受威胁,0
+6,Branta ruficollis,Red-breasted Goose,VU,EN,2,2007,BIRDS,EN,变差,0,受威胁,受威胁,0
+10,Phoebastria irrorata,Waved Albatross,VU,CR,2,2007,BIRDS,CR,变差,0,受威胁,受威胁,0
+14,Serranochromis meridianus,Lowveld Largemouth,LR/cd,EN,2,2007,FISHES,EN,变差,1,不受威胁,受威胁,0
+3,Gorilla gorilla,Western Gorilla,EN,CR,3,2007,MAMMALS,CR,变差,0,受威胁,受威胁,0
+7,Charadrius sanctaehelenae,St Helena Plover,VU,CR,3,2007,BIRDS,CR,变差,0,受威胁,受威胁,0
+11,Psittacula eques,Mauritius Parakeet,CR,EN,3,2007,BIRDS,EN,变好,0,受威胁,受威胁,0
+4,Lipotes vexillifer,Baiji,CR,CR,4,2007,MAMMALS,CR,变好,0,受威胁,受威胁,0
+8,Houbaropsis bengalensis,Bengal Florican,EN,CR,4,2007,BIRDS,CR,变差,0,受威胁,受威胁,0
+12,Sarcogyps calvus,Red-headed Vulture,LC,VU,4,2007,BIRDS,VU,变差,1,不受威胁,受威胁,0
+19,Balaena mysticetus,Bowhead Whale,LR/cd,LC,6,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+23,Capra pyrenaica,Spanish Ibex,NT,LC,6,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+27,Eschrichtius robustus,Gray Whale,LR/cd,LC,6,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+39,Pseudochirulus cinereus,Daintree River Ringtail Possum,NT,LC,6,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+43,Rhinoceros unicornis,Indian Rhinoceros,EN,VU,6,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+47,Leporillus conditor,Greater Stick-nest Rat,EN,VU,6,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+59,Cephalophus jentinki,Jentink's Duiker,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+63,Rucervus eldii,Eld's Deer,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+67,Lonchorhina fernandezi,Fernandez's Sword-Nosed Bat,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+71,Pteropus niger,Mauritan Flying Fox,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+75,Rhinolophus cognatus,Andaman Horseshoe Bat,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+83,Dendrolagus scottae,Tenkile,EN,CR,6,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+115,Pseudomys fumeus,Smoky Mouse,VU,EN,6,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+119,Octodon pacificus,NULL,VU,CR,6,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+131,Numenius arquata,Eurasian Curlew,LC,NT,6,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+135,Centropus violaceus,Violaceous Coucal,LC,NT,6,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+139,Coracina newtoni,Réunion Cuckooshrike,EN,CR,6,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+143,Melidectes whitemanensis,Bismarck Melidectes,LC,NT,6,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+151,Astrochelys radiata,Radiated Tortoise,VU,CR,6,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+155,Incilius holdridgei,NULL,CR,EX,6,2008,AMPHIBIANS,EX,变差,0,受威胁,受威胁,1
+159,Pseudoeurycea gigantea,NULL,EN,CR,6,2008,AMPHIBIANS,CR,变差,0,受威胁,受威胁,1
+55,Aonyx cinerea,Asian Small-Clawed Otter,NT,VU,6,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+79,Dasyurus hallucatus,Northern Quoll,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+87,Bettongia penicillata,Woylie,LR/cd,CR,6,2008,MAMMALS,CR,变差,1,不受威胁,受威胁,1
+91,Manis pentadactyla,Chinese Pangolin,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+95,Macaca tonkeana,Tonkean Macaque,NT,VU,6,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+99,Hylobates agilis,Agile Gibbon,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+103,Hylobates muelleri,Müller's Bornean Gibbon,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+107,Microtus oaxacensis,Tarabundi Vole,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+111,Xenomys nelsoni,Magedelena Wood Rat,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+123,Pteromyscus pulverulentus,Smoky Flying Squirrel,NT,EN,6,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+147,Cacatua ophthalmica,Blue-eyed Cockatoo,LC,VU,6,2008,BIRDS,VU,变差,1,不受威胁,受威胁,1
+15,Gulo gulo,Wolverine,VU,NT,6,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+31,Corynorhinus rafinesquii,Rafinesque's Big-eared Bat,VU,LC,6,2008,MAMMALS,LC,变好,2,受威胁,不受威胁,1
+35,Dasyurus geoffroii,Western Quoll,VU,NT,6,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+51,Spermophilus washingtoni,Washington Ground Squirrel,VU,NT,6,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+127,Apteryx owenii,Little Spotted Kiwi,VU,NT,6,2008,BIRDS,NT,变好,2,受威胁,不受威胁,1
+16,Mustela nigripes,Black-footed Ferret,EW,EN,7,2008,MAMMALS,EN,变好,0,受威胁,受威胁,1
+20,Eubalaena australis,Southern Right Whale,LR/cd,LC,7,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+24,Capra walie,Walia Ibex,CR,EN,7,2008,MAMMALS,EN,变好,0,受威胁,受威胁,1
+36,Dendrolagus lumholtzi,Lumholtz's Tree Kangaroo,NT,LC,7,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+40,Pseudochirulus herbertensis,Herbert River Ringtail Possum,NT,LC,7,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+44,Leontopithecus chrysopygus,Black Lion Tamarin,CR,EN,7,2008,MAMMALS,EN,变好,0,受威胁,受威胁,1
+48,Pseudomys fieldi,Shark Bay Mouse,CR,VU,7,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+52,Panthera pardus,Leopard,LC,NT,7,2008,MAMMALS,NT,变差,0,不受威胁,不受威胁,1
+56,Arctocephalus galapagoensis,Galápagos Fur Seal,VU,EN,7,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+64,Amorphochilus schnablii,Smoky Bat,VU,EN,7,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+80,Myrmecobius fasciatus,Numbat,VU,EN,7,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+84,Petaurus abidi,Northern Glider,VU,CR,7,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+88,Ochotona iliensis,Ili Pika,VU,EN,7,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+104,Nomascus concolor,Black Crested Gibbon,EN,CR,7,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+112,Pappogeomys alcorni,Alcorn's Pocket Gopher,VU,CR,7,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+116,Solomys ponceleti,Poncelet's Giant Rat,EN,CR,7,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+120,Marmota vancouverensis,Vancouver Island Marmot,EN,CR,7,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+128,Aythya baeri,Baer's Pochard,VU,EN,7,2008,BIRDS,EN,变差,0,受威胁,受威胁,1
+132,Ducula finschii,Finsch's Imperial-pigeon,LC,NT,7,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+140,Corvus kubaryi,Mariana Crow,EN,CR,7,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+144,Mimus trifasciatus,Floreana Mockingbird,EN,CR,7,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+152,Astrochelys yniphora,Ploughshare Tortoise,EN,CR,7,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+160,Pseudoeurycea juarezi,NULL,EN,CR,7,2008,AMPHIBIANS,CR,变差,0,受威胁,受威胁,1
+60,Kobus megaceros,Nile Lechwe,NT,EN,7,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+68,Lonchorhina orinocensis,Orinoco Sword-Nosed Bat,NT,VU,7,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+72,Pteropus temminckii,Temminck's Flying Fox,NT,VU,7,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+76,Murina aenea,Bronze Tube-nosed Bat,NT,VU,7,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+92,Saguinus niger,Black-handed Tamarin,LC,VU,7,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+96,Presbytis melalophos,Sumatran Surili,NT,EN,7,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+100,Hylobates albibarbis,Bornean White-bearded Gibbon,NT,EN,7,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+108,Neotoma palatina,Bolano's Woodrat,NT,VU,7,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+124,Spermophilus perotensis,Perote Ground Squirrel,NT,EN,7,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+136,Accipiter princeps,New Britain Goshawk,NT,VU,7,2008,BIRDS,VU,变差,1,不受威胁,受威胁,1
+148,Ninox odiosa,Russet Hawk-owl,LC,VU,7,2008,BIRDS,VU,变差,1,不受威胁,受威胁,1
+156,Centrolene buckleyi,NULL,NT,VU,7,2008,AMPHIBIANS,VU,变差,1,不受威胁,受威胁,1
+28,Pteropus dasymallus,Ryukyu Flying Fox,EN,NT,7,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+32,Corynorhinus townsendii,Townsend's Big-eared Bat,VU,LC,7,2008,MAMMALS,LC,变好,2,受威胁,不受威胁,1
+25,Procapra przewalskii,Przewalski's Gazelle,CR,EN,8,2008,MAMMALS,EN,变好,0,受威胁,受威胁,1
+29,Pteropus molossinus,Pohnpei Flying Fox,CR,VU,8,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+37,Macropus irma,Western Brush Wallaby,NT,LC,8,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+41,Equus ferus,Wild Horse,EW,CR,8,2008,MAMMALS,CR,变好,0,受威胁,受威胁,1
+53,Prionailurus planiceps,Flat-headed Cat,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+57,Zalophus wollebaeki,Galápagos Sea Lion,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+61,Axis kuhlii,Bawean Deer,EN,CR,8,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+69,Platyrrhinus chocoensis,Choco Broad-Nosed Bat,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+81,Burramys parvus,Mountain Pygmy Possum,EN,CR,8,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+85,Phalanger matanim,Telefomin Cuscus,EN,CR,8,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+89,Equus hemionus,Asiatic Wild Ass,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+101,Hylobates klossii,Kloss’s Gibbon,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+125,Spalax arenarius,Sandy Mole Rate,VU,EN,8,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+133,Ducula rubricera,Red-knobbed Imperial-pigeon,LC,NT,8,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+137,Pauxi pauxi,Helmeted Curassow,VU,EN,8,2008,BIRDS,EN,变差,0,受威胁,受威胁,1
+141,Loxops caeruleirostris,Akekee,EN,CR,8,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+145,Sylvia undata,Dartford Warbler,LC,NT,8,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+149,Crocodylus rhombifer,Cuban Crocodile,EN,CR,8,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+153,Pyxis arachnoides,Spider Tortoise,VU,CR,8,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+157,Craugastor escoces,NULL,CR,EX,8,2008,AMPHIBIANS,EX,变差,0,受威胁,受威胁,1
+161,Thorius munificus,NULL,EN,CR,8,2008,AMPHIBIANS,CR,变差,0,受威胁,受威胁,1
+65,Coelops robinsoni,Malayan Tailless Leaf-nosed Bat,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+73,Rousettus bidens,Manado Rousette,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+77,Murina rozendaali,Gilded Tube-nosed Bat,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+93,Macaca hecki,Heck's Macaque,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+97,Presbytis thomasi,Thomas’s Langur,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+105,Symphalangus syndactylus,Siamang,NT,EN,8,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+109,Reithrodontomys microdon,Small-toothed Harvest Mouse,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+113,Dipodomys nitratoides,Fresno Kangaroo Rat,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+117,Solomys salebrosus,Bougainville Giant Rat,NT,EN,8,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+121,Petaurista nobilis,Bhutan Giant Flying Squirrel,NT,VU,8,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+129,Sterna nereis,Fairy Tern,LC,VU,8,2008,BIRDS,VU,变差,1,不受威胁,受威胁,1
+17,Arctocephalus philippii,Juan Fernández Fur Seal,VU,NT,8,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+21,Megaptera novaeangliae,Humpback Whale,VU,LC,8,2008,MAMMALS,LC,变好,2,受威胁,不受威胁,1
+33,Myotis emarginatus,Geoffroy's Bat,VU,LC,8,2008,MAMMALS,LC,变好,2,受威胁,不受威胁,1
+45,Loxodonta africana,African Elephant,VU,NT,8,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+49,Pseudomys occidentalis,Western Mouse,EN,LC,8,2008,MAMMALS,LC,变好,2,受威胁,不受威胁,1
+22,Bison bonasus,European Bison,EN,VU,9,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+26,Rupicapra pyrenaica,Pyrenean Chamoix,LR/cd,LC,9,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+42,Equus zebra,Mountain Zebra,EN,VU,9,2008,MAMMALS,VU,变好,0,受威胁,受威胁,1
+46,Castor fiber,Eurasian Beaver,NT,LC,9,2008,MAMMALS,LC,变好,0,不受威胁,不受威胁,1
+54,Prionailurus viverrinus,Fishing Cat,VU,EN,9,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+58,Monachus schauinslandi,Hawaiian Monk Seal,EN,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+70,Eidolon helvum,Straw-Coloured Fruit Bat,LC,NT,9,2008,MAMMALS,NT,变差,0,不受威胁,不受威胁,1
+82,Dendrolagus mbaiso,Dingiso,VU,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+86,Spilocuscus rufoniger,Black-spotted Cuscus,EN,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+94,Macaca nigra,Celebes Crested Macaque,EN,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+98,Pygathrix cinerea,Grey-shanked Douc Langur,EN,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+110,Reithrodontomys spectabilis,Cozumel Harvest Mouse,EN,CR,9,2008,MAMMALS,CR,变差,0,受威胁,受威胁,1
+118,Solomys sapientis,Isabel Giant Rat,VU,EN,9,2008,MAMMALS,EN,变差,0,受威胁,受威胁,1
+126,Ducula galeata,Marquesan Imperial-pigeon,CR,EN,9,2008,BIRDS,EN,变好,0,受威胁,受威胁,1
+130,Eurynorhynchus pygmeus,Spoon-billed Sandpiper,EN,CR,9,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+134,Reinwardtoena browni,Pied Cuckoo-dove,LC,NT,9,2008,BIRDS,NT,变差,0,不受威胁,不受威胁,1
+142,Stipiturus mallee,Mallee Emuwren,VU,EN,9,2008,BIRDS,EN,变差,0,受威胁,受威胁,1
+146,Diomedea dabbenena,Tristan Albatross,EN,CR,9,2008,BIRDS,CR,变差,0,受威胁,受威胁,1
+150,Erymnochelys madagascariensis,Madagascar Big-headed Turtle,EN,CR,9,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+154,Pyxis planicauda,Flat-tailed Tortoise,EN,CR,9,2008,REPTILES,CR,变差,0,受威胁,受威胁,1
+158,Parvimolge townsendi,NULL,EN,CR,9,2008,AMPHIBIANS,CR,变差,0,受威胁,受威胁,1
+62,Hydropotes inermis,Chinese Water Deer,NT,VU,9,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+66,Tadarida johorensis,Northern Free-tailed Bat,NT,VU,9,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+74,Styloctenium wallacei,Stripe-faced Fruit Bat,NT,VU,9,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+78,Rhogeessa minutilla,Tiny Yellow Bat,NT,VU,9,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+90,Manis javanica,Sunda Pangolin,NT,EN,9,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+102,Hylobates lar,Lar Gibbon,NT,EN,9,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+106,Arvicola sapidus,Southern Water Vole,NT,VU,9,2008,MAMMALS,VU,变差,1,不受威胁,受威胁,1
+114,Nesokia bunnii,Bunn's Short-Tailed Bandicoot Rat,NT,EN,9,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+122,Petinomys lugens,Siberut Flying Squirrel,NT,EN,9,2008,MAMMALS,EN,变差,1,不受威胁,受威胁,1
+138,Atrichornis rufescens,Rufous Scrub-bird,NT,VU,9,2008,BIRDS,VU,变差,1,不受威胁,受威胁,1
+18,Arctocephalus townsendi,Guadalupe Fur Seal,VU,NT,9,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+30,Pteropus samoensis,Samoan Flying Fox,VU,NT,9,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+34,Myotis grisescens,Gray Myotis,EN,NT,9,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+38,Bettongia lesueur,Burrowing Bettong,VU,NT,9,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+50,Spermophilus suslicus,Speckled Ground Squirrel,VU,NT,9,2008,MAMMALS,NT,变好,2,受威胁,不受威胁,1
+162,Acrocephalus luscinius,Nightingale Reed-warbler,EN,CR,11,2009,BIRDS,CR,变差,0,受威胁,受威胁,2
+174,Todiramphus godeffroyi,Marquesan Kingfisher,EN,CR,11,2009,BIRDS,CR,变差,0,受威胁,受威胁,2
+178,Triakis semifasciata,Leopard Shark,LR/cd,LC,11,2009,FISHES,LC,变好,0,不受威胁,不受威胁,2
+182,Partula varia,Polynesian Tree Snail,CR,EW,11,2009,INVERTEBRATES,EW,变差,0,受威胁,受威胁,2
+166,Grantiella picta,Painted Honeyeater,NT,VU,11,2009,BIRDS,VU,变差,1,不受威胁,受威胁,2
+170,Podiceps gallardoi,Hooded Grebe,NT,EN,11,2009,BIRDS,EN,变差,1,不受威胁,受威胁,2
+163,Anodorhynchus leari,Lear's Macaw,CR,EN,12,2009,BIRDS,EN,变好,0,受威胁,受威胁,2
+167,Heteromirafra sidamoensis,Sidamo Lark,EN,CR,12,2009,BIRDS,CR,变差,0,受威胁,受威胁,2
+171,Pterodroma axillaris,Chatham Petrel,CR,EN,12,2009,BIRDS,EN,变好,0,受威胁,受威胁,2
+175,Nectophrynoides asperginis,Kihansi Spray Toad,CR,EW,12,2009,AMPHIBIANS,EW,变差,0,受威胁,受威胁,2
+179,Biomphalaria tchadiensis,NULL,VU,EN,12,2009,INVERTEBRATES,EN,变差,0,受威胁,受威胁,2
+183,Samoana attenuata,Polynesian Tree Snail,EN,CR,12,2009,INVERTEBRATES,CR,变差,0,受威胁,受威胁,2
+168,Loxioides bailleui,Palila,EN,CR,13,2009,BIRDS,CR,变差,0,受威胁,受威胁,2
+172,Pterodroma cookii,Cook's Petrel,EN,VU,13,2009,BIRDS,VU,变好,0,受威胁,受威胁,2
+180,Partula labrusca,Polynesian Tree Snail,EW,EX,13,2009,INVERTEBRATES,EX,变差,0,受威胁,受威胁,2
+164,Balearica regulorum,Grey Crowned-crane,LC,VU,13,2009,BIRDS,VU,变差,1,不受威胁,受威胁,2
+176,Neochanna apoda,Brown Mudfish,NT,VU,13,2009,FISHES,VU,变差,1,不受威胁,受威胁,2
+165,Foudia rubra,Mauritius Fody,CR,EN,14,2009,BIRDS,EN,变好,0,受威胁,受威胁,2
+173,Suiriri islerorum,Chapada Flycatcher,LC,NT,14,2009,BIRDS,NT,变差,0,不受威胁,不受威胁,2
+181,Partula rosea,Polynesian Tree Snail,CR,EW,14,2009,INVERTEBRATES,EW,变差,0,受威胁,受威胁,2
+169,Menura alberti,Albert's Lyrebird,VU,NT,14,2009,BIRDS,NT,变好,2,受威胁,不受威胁,2
+177,Prototroctes maraena,Australian Grayling,VU,NT,14,2009,FISHES,NT,变好,2,受威胁,不受威胁,2
+188,Emberiza jankowskii,Rufous-backed Bunting,VU,EN,16,2010,BIRDS,EN,变差,0,受威胁,受威胁,3
+192,Sturnus melanopterus,Black-winged Starling,EN,CR,16,2010,BIRDS,CR,变差,0,受威胁,受威胁,3
+196,Vandijkophrynus amatolicus,Amatola Toad,EN,CR,16,2010,AMPHIBIANS,CR,变差,0,受威胁,受威胁,3
+200,Xyrauchen texanus,Razorback Sucker,EN,CR,16,2010,FISHES,CR,变差,0,受威胁,受威胁,3
+204,Bellamya pagodiformis,NULL,EN,CR,16,2010,MOLLUSCS,CR,变差,0,受威胁,受威胁,3
+208,Cambarus cymatilis,Conasauga Blue Burrower,VU,EN,16,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+212,Engaeus spinicaudatus,Scottsdale Burrowing Crayfish,EN,CR,16,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+216,Euastacus fleckeri,NULL,VU,EN,16,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+220,Hobbseus orconectoides,Oktibbeha Riverlet Crayfish,VU,EN,16,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+184,Balearica pavonina,Black Crowned-crane,NT,VU,16,2010,BIRDS,VU,变差,1,不受威胁,受威胁,3
+193,Aprasia aurita,Eared Worm-lizard,VU,CR,17,2010,REPTILES,CR,变差,0,受威胁,受威胁,3
+197,Fundulus waccamensis,Waccamaw Killifish,VU,EN,17,2010,FISHES,EN,变差,0,受威胁,受威胁,3
+205,Biomphalaria tchadiensis,NULL,EN,EN,17,2010,MOLLUSCS,EN,变好,0,受威胁,受威胁,3
+209,Cambarus obeyensis,Obey Crayfish,VU,CR,17,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+213,Engaeus sternalis,Warragul Burrowing Crayfish,EN,CR,17,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+217,Euastacus maidae,NULL,EN,CR,17,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+221,Hobbseus valleculus,Choctaw Riverlet Crayfish,VU,EN,17,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+185,Calidris tenuirostris,Great Knot,LC,VU,17,2010,BIRDS,VU,变差,1,不受威胁,受威胁,3
+189,Numenius madagascariensis,Far Eastern Curlew,LC,VU,17,2010,BIRDS,VU,变差,1,不受威胁,受威胁,3
+201,Chlorolestes elegans,Elegant Malachite,NT,VU,17,2010,ODONATA,VU,变差,1,不受威胁,受威胁,3
+186,Chaetura pelagica,Chimney Swift,LC,NT,18,2010,BIRDS,NT,变差,0,不受威胁,不受威胁,3
+190,Ognorhynchus icterotis,Yellow-eared Parrot,CR,EN,18,2010,BIRDS,EN,变好,0,受威胁,受威胁,3
+194,Iguana delicatissima,Lesser Antillean Iguana,VU,EN,18,2010,REPTILES,EN,变差,0,受威胁,受威胁,3
+198,Huso dauricus,Kaluga,EN,CR,18,2010,FISHES,CR,变差,0,受威胁,受威胁,3
+206,Bythinella cylindrica,NULL,VU,CR,18,2010,MOLLUSCS,CR,变差,0,受威胁,受威胁,3
+210,Cherax tenuimanus,Hairy Marron,VU,CR,18,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+218,Euastacus neodiversus,NULL,VU,EN,18,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+222,Orconectes jeffersoni,Louisville Crayfish,VU,EN,18,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+202,Cucujus cinnaberinus,NULL,VU,NT,18,2010,BEETLES,NT,变好,2,受威胁,不受威胁,3
+214,Engaewa similis,NULL,EN,LC,18,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",LC,变好,2,受威胁,不受威胁,3
+187,Cyanolimnas cerverai,Zapata Rail,EN,CR,19,2010,BIRDS,CR,变差,0,受威胁,受威胁,3
+191,Spheniscus demersus,African Penguin,VU,EN,19,2010,BIRDS,EN,变差,0,受威胁,受威胁,3
+195,Oligosoma otagense,Otago Skink,VU,EN,19,2010,REPTILES,EN,变差,0,受威胁,受威胁,3
+199,Huso huso,Beluga,EN,CR,19,2010,FISHES,CR,变差,0,受威胁,受威胁,3
+203,Bellamya mweruensis,NULL,EN,CR,19,2010,MOLLUSCS,CR,变差,0,受威胁,受威胁,3
+207,Melanopsis etrusca,NULL,VU,EN,19,2010,MOLLUSCS,EN,变差,0,受威胁,受威胁,3
+211,Engaeus granulatus,Central North Burrowing Crayfish,EN,CR,19,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+215,Euastacus bindal,NULL,EN,CR,19,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+219,Euastacus yigara,NULL,EN,CR,19,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",CR,变差,0,受威胁,受威胁,3
+223,Procambarus apalachicolae,Coastal Flatwoods Crayfish,VU,EN,19,2010,"CRAYFISHES, CRABS, LOBSTERS, etc.",EN,变差,0,受威胁,受威胁,3
+224,Equus ferus,Przewalski's Horse,CR,EN,21,2011,MAMMALS,EN,变好,0,受威胁,受威胁,4
+228,Ardeotis nigriceps,Great Indian Bustard,EN,CR,21,2011,BIRDS,CR,变差,0,受威胁,受威胁,4
+232,Columba trocaz,Madeira Laurel Pigeon,NT,LC,21,2011,BIRDS,LC,变好,0,不受威胁,不受威胁,4
+240,Caseolus calvus,NULL,VU,EN,21,2011,MOLLUSCS,EN,变差,0,受威胁,受威胁,4
+244,Lampadia webbiana,NULL,VU,EN,21,2011,MOLLUSCS,EN,变差,0,受威胁,受威胁,4
+252,Renea bourguignatiana,NULL,VU,CR,21,2011,MOLLUSCS,CR,变差,0,受威胁,受威胁,4
+236,Terrapene carolina,Eastern Box Turtle,NT,VU,21,2011,REPTILES,VU,变差,1,不受威胁,受威胁,4
+256,Xerocrassa montserratensis,NULL,NT,EN,21,2011,MOLLUSCS,EN,变差,1,不受威胁,受威胁,4
+248,Lemniscia michaudi,NULL,VU,NT,21,2011,MOLLUSCS,NT,变好,2,受威胁,不受威胁,4
+225,Oryx leucoryx,Arabian Oryx,EN,VU,22,2011,MAMMALS,VU,变好,0,受威胁,受威胁,4
+229,Atlapetes pallidiceps,Pale-headed Brush-finch,CR,EN,22,2011,BIRDS,EN,变好,0,受威胁,受威胁,4
+241,Cornu mazzullii,NULL,VU,EN,22,2011,MOLLUSCS,EN,变差,0,受威胁,受威胁,4
+245,Leiostyla concinna,NULL,VU,EN,22,2011,MOLLUSCS,EN,变差,0,受威胁,受威胁,4
+249,Orcula fuchsi,NULL,NT,CR,22,2011,MOLLUSCS,CR,变差,1,不受威胁,受威胁,4
+253,Suboestophora altamirai,NULL,NT,VU,22,2011,MOLLUSCS,VU,变差,1,不受威胁,受威胁,4
+257,Xerotricha gasulli,NULL,NT,EN,22,2011,MOLLUSCS,EN,变差,1,不受威胁,受威胁,4
+233,Myiagra albiventris,Samoan Flycatcher,VU,NT,22,2011,BIRDS,NT,变好,2,受威胁,不受威胁,4
+237,Actinella anaglyptica,NULL,VU,NT,22,2011,MOLLUSCS,NT,变好,2,受威胁,不受威胁,4
+230,Columba bollii,Dark-tailed Laurel Pigeon,NT,LC,23,2011,BIRDS,LC,变好,0,不受威胁,不受威胁,4
+234,Glyptemys insculpta,Wood Turtle,VU,EN,23,2011,REPTILES,EN,变差,0,受威胁,受威胁,4
+242,Discus guerinianus,Madeiran Land Snail,EN,CR,23,2011,MOLLUSCS,CR,变差,0,受威胁,受威胁,4
+250,Plutonia reticulata,NULL,EN,CR,23,2011,MOLLUSCS,CR,变差,0,受威胁,受威胁,4
+226,Sylvilagus mansuetus,San Jose Brush Rabbit,NT,CR,23,2011,MAMMALS,CR,变差,1,不受威胁,受威胁,4
+238,Canariella pthonera,NULL,LR/cd,VU,23,2011,MOLLUSCS,VU,变差,1,不受威胁,受威胁,4
+254,Suboestophora hispanica,NULL,NT,VU,23,2011,MOLLUSCS,VU,变差,1,不受威胁,受威胁,4
+246,Leiostyla degenerata,NULL,VU,NT,23,2011,MOLLUSCS,NT,变好,2,受威胁,不受威胁,4
+227,Anas nesiotis,Campbell Islands Teal,CR,EN,24,2011,BIRDS,EN,变好,0,受威胁,受威胁,4
+235,Glyptemys muhlenbergii,Bog Turtle,EN,CR,24,2011,REPTILES,CR,变差,0,受威胁,受威胁,4
+239,Candidula setubalensis,NULL,VU,EN,24,2011,MOLLUSCS,EN,变差,0,受威胁,受威胁,4
+255,Theba arinagae,NULL,VU,CR,24,2011,MOLLUSCS,CR,变差,0,受威胁,受威胁,4
+243,Hemicycla inutilis,NULL,LR/cd,VU,24,2011,MOLLUSCS,VU,变差,1,不受威胁,受威胁,4
+251,Pseudanodonta complanata,Depressed River Mussel,NT,VU,24,2011,MOLLUSCS,VU,变差,1,不受威胁,受威胁,4
+231,Columba junoniae,White-tailed Laurel Pigeon,EN,NT,24,2011,BIRDS,NT,变好,2,受威胁,不受威胁,4
+247,Leiostyla relevata,NULL,VU,NT,24,2011,MOLLUSCS,NT,变好,2,受威胁,不受威胁,4
+262,Amazona kawalli,Kawall's Amazon,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+266,Arremon castaneiceps,Olive Finch,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+270,Aythya baeri,Baer's Pochard,EN,CR,26,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+286,Cyanoramphus cookii,Norfolk Island Parakeet,EN,CR,26,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+290,Dendroplex kienerii,Zimmer's Woodcreeper,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+294,Eubucco versicolor,Versicoloured Barbet,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+314,Lorius domicella,Purple-naped Lory,VU,EN,26,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+326,Odontorchilus cinereus,Tooth-billed Wren,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+330,Percnostola lophotes,White-lined Antbird,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+342,Prioniturus verticalis,Blue-winged Racquet-tail,EN,CR,26,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+346,Pyrilia barrabandi,Orange-cheeked Parrot,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+354,Rhegmatorhina hoffmannsi,White-breasted Antbird,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+358,Spizaetus ornatus,Ornate Hawk-eagle,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+362,Synallaxis maranonica,Maranon Spinetail,VU,CR,26,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+366,Thamnophilus nigrocinereus,Blackish-grey Antshrike,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+370,Tinamus major,Great Tinamou,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+374,Xipholena lamellipennis,White-tailed Cotinga,LC,NT,26,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+378,Cyclura lewisi,Grand Cayman Blue Iguana,CR,EN,26,2012,REPTILES,EN,变好,0,受威胁,受威胁,5
+382,Pyrgulopsis metcalfi,Naegele Springsnail,VU,EN,26,2012,MOLLUSCS,EN,变差,0,受威胁,受威胁,5
+274,Cercomacra carbonaria,Rio Branco Antbird,NT,CR,26,2012,BIRDS,CR,变差,1,不受威胁,受威胁,5
+278,Conopias cinchoneti,Lemon-browed Flycatcher,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+282,Crax alector,Black Curassow,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+298,Grallaria przewalskii,Rusty-tinged Antpitta,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+302,Heliodoxa gularis,Pink-throated Brilliant,NT,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+306,Hylexetastes brigidai,Mato Grosso Woodcreeper,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+310,Lepidothrix iris,Opal-crowned Manakin,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+318,Myrmoborus melanurus,Black-tailed Antbird,NT,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+322,Neomorphus squamiger,Scaled Ground-cuckoo,NT,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+334,Picumnus spilogaster,White-bellied Piculet,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+338,Pipile cumanensis,Blue-throated Piping-guan,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+350,Pyrrhura perlata,Crimson-bellied Parakeet,LC,VU,26,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+258,Eumetopias jubatus,Steller Sea Lion,EN,NT,26,2012,MAMMALS,NT,变好,2,受威胁,不受威胁,5
+259,Accipiter poliogaster,Gray-bellied Hawk,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+263,Amytornis housei,Black Grasswren,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+271,Cacicus koepckeae,Selva Cacique,VU,EN,27,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+283,Crypturellus atrocapillus,Black-capped Tinamou,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+287,Dasyornis longirostris,Western Bristlebird,VU,EN,27,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+291,Discosura popelairii,Wire-crested Thorntail,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+295,Falco deiroleucus,Orange-breasted Falcon,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+299,Grallaricula flavirostris,Ochre-breasted Antpitta,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+303,Hemispingus parodii,Parodi's Hemispingus,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+311,Lepidothrix isidorei,Blue-rumped Manakin,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+319,Myrmornis torquata,Wing-banded Antbird,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+335,Picumnus steindachneri,Speckle-chested Piculet,VU,EN,27,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+339,Podiceps gallardoi,Hooded Grebe,EN,CR,27,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+347,Pyrilia caica,Caica Parrot,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+351,Pyrrhura rupicola,Black-capped Parakeet,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+355,Sclerurus albigularis,Grey-throated Leaftosser,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+363,Synallaxis moesta,Dusky Spinetail,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+375,Zebrilus undulatus,Zigzag Heron,LC,NT,27,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+267,Asthenes helleri,Puna Thistletail,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+275,Clangula hyemalis,Long-tailed Duck,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+279,Cranioleuca curtata,Ash-browed Spinetail,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+307,Hylexetastes uniformis,Uniform Woodcreeper,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+315,Melanitta fusca,Velvet Scoter,LC,EN,27,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+323,Nothocercus nigrocapillus,Hooded Tinamou,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+327,Pachycephala rufogularis,Red-lored Whistler,NT,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+331,Phlogophilus hemileucurus,Ecuadorian Piedtail,NT,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+343,Psophia viridis,Dark-winged Trumpeter,LC,EN,27,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+359,Sterna acuticauda,Black-bellied Tern,NT,EN,27,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+367,Thamnophilus tenuepunctatus,Lined Antshrike,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+371,Tinamus tao,Grey Tinamou,LC,VU,27,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+379,Naja siamensis,Black And White Spitting Cobra,LC,VU,27,2012,REPTILES,VU,变差,1,不受威胁,受威胁,5
+383,Pyrgulopsis thompsoni,Huachuca Springsnail,VU,NT,27,2012,MOLLUSCS,NT,变好,2,受威胁,不受威胁,5
+264,Amytornis merrotsyi,Short-tailed Grasswren,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+268,Atrichornis clamosus,Noisy Scrub-bird,VU,EN,28,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+272,Calidris pusilla,Semipalmated Sandpiper,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+276,Conirostrum bicolor,Bicoloured Conebill,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+284,Crypturellus duidae,Grey-legged Tinamou,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+288,Deconychura longicauda,Long-tailed Woodcreeper,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+308,Hylophilus olivaceus,Olivaceous Greenlet,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+312,Leptopogon taczanowskii,Inca Flycatcher,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+316,Mitu tomentosum,Crestless Curassow,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+320,Myrmotherula gutturalis,Brown-bellied Antwren,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+324,Odontophorus gujanensis,Marbled Wood-quail,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+332,Phylloscartes gualaquizae,Ecuadorian Tyrannulet,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+340,Poecilotriccus luluae,Lulu's Tody-flycatcher,VU,EN,28,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+344,Pteroglossus bitorquatus,Red-necked Aracari,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+360,Synallaxis cabanisi,Cabanis's Spinetail,LC,NT,28,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+380,Leptoxis taeniata,Painted Rocksnail,VU,EN,28,2012,MOLLUSCS,EN,变差,0,受威胁,受威胁,5
+384,Stagnicola bonnevillensis,Fat-whorled Pondsnail,VU,CR,28,2012,MOLLUSCS,CR,变差,0,受威胁,受威胁,5
+260,Agamia agami,Agami Heron,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+280,Cranioleuca marcapatae,Marcapata Spinetail,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+292,Dysithamnus leucostictus,White-streaked Antvireo,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+296,Geophaps smithii,Partridge Pigeon,NT,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+300,Gyps africanus,White-backed Vulture,NT,EN,28,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+304,Herpsilochmus axillaris,Yellow-breasted Antwren,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+328,Patagioenas subvinacea,Ruddy Pigeon,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+336,Picumnus varzeae,Varzea Piculet,LC,EN,28,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+348,Pyrilia vulturina,Vulturine Parrot,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+352,Ramphastos ambiguus,Black-mandibled Toucan,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+356,Sericossypha albocristata,White-capped Tanager,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+364,Tangara argyrofenges,Straw-backed Tanager,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+368,Thinornis rubricollis,Hooded Plover,NT,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+372,Touit huetii,Scarlet-shouldered Parrotlet,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+376,Zimmerius cinereicapilla,Red-billed Tyrannulet,LC,VU,28,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+269,Atrichornis rufescens,Rufous Scrub-bird,VU,EN,29,2012,BIRDS,EN,变差,0,受威胁,受威胁,5
+285,Cyanolyca viridicyanus,White-collared Jay,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+305,Herpsilochmus motacilloides,Creamy-bellied Antwren,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+309,Hypocnemis cantator,Guianan Warbling-antbird,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+325,Odontophorus speciosus,Rufous-breasted Wood-quail,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+333,Picumnus minutissimus,Guianan Piculet,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+341,Pomarea dimidiata,Rarotonga Monarch,EN,VU,29,2012,BIRDS,VU,变好,0,受威胁,受威胁,5
+357,Snowornis subalaris,Grey-tailed Piha,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+361,Synallaxis kollari,Hoary-throated Spinetail,EN,CR,29,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+365,Thamnophilus cryptoleucus,Castelnau's Antshrike,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+369,Tinamus guttatus,White-throated Tinamou,LC,NT,29,2012,BIRDS,NT,变差,0,不受威胁,不受威胁,5
+373,Xanthomyza phrygia,Regent Honeyeater,EN,CR,29,2012,BIRDS,CR,变差,0,受威胁,受威胁,5
+377,Calamaria ingeri,NULL,EN,CR,29,2012,REPTILES,CR,变差,0,受威胁,受威胁,5
+381,Potamilus capax,Fat Pocketbook,CR,VU,29,2012,MOLLUSCS,VU,变好,0,受威胁,受威胁,5
+261,Amazona festiva,Festive Amazon,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+265,Aphelocoma insularis,Island Scrub-jay,NT,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+273,Capito dayi,Black-girdled Barbet,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+277,Conirostrum margaritae,Pearly-breasted Conebill,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+281,Cranioleuca muelleri,Scaled Spinetail,LC,EN,29,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+289,Dendrocolaptes hoffmannsi,Hoffmanns's Woodcreeper,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+297,Geotrygon saphirina,Sapphire Quail-dove,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+301,Gyps rueppellii,Rueppell's Vulture,NT,EN,29,2012,BIRDS,EN,变差,1,不受威胁,受威胁,5
+313,Lophornis gouldii,Dot-eared Coquette,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+317,Myrmoborus lugubris,Ash-breasted Antbird,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+321,Myrmotherula surinamensis,Guianan Streaked Antwren,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+329,Penelope pileata,White-crested Guan,NT,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+337,Pionites leucogaster,White-bellied Parrot,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+345,Puffinus yelkouan,Yelkouan Shearwater,NT,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+349,Pyrrhura lepida,Pearly Parakeet,NT,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+353,Rhegmatorhina gymnops,Bare-eyed Antbird,LC,VU,29,2012,BIRDS,VU,变差,1,不受威胁,受威胁,5
+293,Erythrura gouldiae,Gouldian Finch,EN,NT,29,2012,BIRDS,NT,变好,2,受威胁,不受威胁,5
+389,Ardeotis kori,Kori Bustard,LC,NT,31,2013,BIRDS,NT,变差,0,不受威胁,不受威胁,6
+401,Thalassarche chrysostoma,Grey-headed Albatross,VU,EN,31,2013,BIRDS,EN,变差,0,受威胁,受威胁,6
+405,Lithobates vibicarius,Rancho Redondo Frog,CR,VU,31,2013,AMPHIBIANS,VU,变好,0,受威胁,受威胁,6
+409,Dionda diaboli,Devil's River Minnow,VU,EN,31,2013,FISHES,EN,变差,0,受威胁,受威胁,6
+413,Percina antesella,Amber Darter,VU,EN,31,2013,FISHES,EN,变差,0,受威胁,受威胁,6
+385,Tayassu pecari,White-lipped Peccary,NT,VU,31,2013,MAMMALS,VU,变差,1,不受威胁,受威胁,6
+397,Phalacrocorax capensis,Cape Cormorant,NT,EN,31,2013,BIRDS,EN,变差,1,不受威胁,受威胁,6
+393,Foudia flavicans,Rodrigues Fody,VU,NT,31,2013,BIRDS,NT,变好,2,受威胁,不受威胁,6
+417,Pogonichthys macrolepidotus,Sacramento Splittail,EN,LC,31,2013,FISHES,LC,变好,2,受威胁,不受威胁,6
+390,Cacatua alba,White Cockatoo,VU,EN,32,2013,BIRDS,EN,变差,0,受威胁,受威胁,6
+402,Dermochelys coriacea,Leatherback Turtle,CR,VU,32,2013,REPTILES,VU,变好,0,受威胁,受威胁,6
+406,Mannophryne olmonae,Bloody Bay Poison Frog,CR,VU,32,2013,AMPHIBIANS,VU,变好,0,受威胁,受威胁,6
+410,Ictalurus pricei,Yaqui Catfish,VU,EN,32,2013,FISHES,EN,变差,0,受威胁,受威胁,6
+414,Percina cymatotaenia,Bluestripe Darter,EN,VU,32,2013,FISHES,VU,变好,0,受威胁,受威胁,6
+394,Garrulax rufifrons,Rufous-fronted Laughingthrush,NT,EN,32,2013,BIRDS,EN,变差,1,不受威胁,受威胁,6
+386,Urocyon littoralis,Island Fox,CR,NT,32,2013,MAMMALS,NT,变好,2,受威胁,不受威胁,6
+398,Picoides borealis,Red-cockaded Woodpecker,VU,NT,32,2013,BIRDS,NT,变好,2,受威胁,不受威胁,6
+391,Emberiza aureola,Yellow-breasted Bunting,VU,EN,33,2013,BIRDS,EN,变差,0,受威胁,受威胁,6
+395,Oriolus mellianus,Silver Oriole,VU,EN,33,2013,BIRDS,EN,变差,0,受威胁,受威胁,6
+403,Balebreviceps hillmani,Bale Mountains Treefrog,EN,CR,33,2013,AMPHIBIANS,CR,变差,0,受威胁,受威胁,6
+411,Noturus taylori,Caddo Madtom,VU,EN,33,2013,FISHES,EN,变差,0,受威胁,受威胁,6
+415,Percina jenkinsi,Conasauga Logperch,VU,CR,33,2013,FISHES,CR,变差,0,受威胁,受威胁,6
+399,Polemaetus bellicosus,Martial Eagle,NT,VU,33,2013,BIRDS,VU,变差,1,不受威胁,受威胁,6
+407,Melanophryniscus admirabilis,Red-belly Toad,NT,CR,33,2013,AMPHIBIANS,CR,变差,1,不受威胁,受威胁,6
+387,Acrocephalus rodericanus,Rodrigues Warbler,EN,NT,33,2013,BIRDS,NT,变好,2,受威胁,不受威胁,6
+388,Acrocephalus sorghophilus,Streaked Reed-warbler,VU,EN,34,2013,BIRDS,EN,变差,0,受威胁,受威胁,6
+400,Sarothrura ayresi,White-winged Flufftail,EN,CR,34,2013,BIRDS,CR,变差,0,受威胁,受威胁,6
+404,Duellmanohyla uranochroa,Costa Rica Brook Frog,CR,EN,34,2013,AMPHIBIANS,EN,变好,0,受威胁,受威胁,6
+408,Cyprinodon pecosensis,Pecos Pupfish,CR,VU,34,2013,FISHES,VU,变好,0,受威胁,受威胁,6
+416,Plagopterus argentissimus,Woundfin,VU,CR,34,2013,FISHES,CR,变差,0,受威胁,受威胁,6
+392,Eupodotis afra,Black Bustard,LC,VU,34,2013,BIRDS,VU,变差,1,不受威胁,受威胁,6
+396,Oryzoborus maximiliani,Great-billed Seed-finch,NT,VU,34,2013,BIRDS,VU,变差,1,不受威胁,受威胁,6
+412,Oregonichthys crameri,Oregon Chub,VU,LC,34,2013,FISHES,LC,变好,2,受威胁,不受威胁,6
+422,Eulemur collaris,Collared Brown Lemur,VU,EN,36,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+426,Indri indri,Indri,EN,CR,36,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+438,Propithecus tattersalli,Golden-crowned Sifaka,EN,CR,36,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+442,Anodorhynchus hyacinthinus,Hyacinth Macaw,EN,VU,36,2014,BIRDS,VU,变好,0,受威胁,受威胁,7
+450,Prioniturus luconensis,Green Racquet-tail,VU,EN,36,2014,BIRDS,EN,变差,0,受威胁,受威胁,7
+454,Acanthobrama telavivensis,Yarkon Bream,EW,VU,36,2014,FISHES,VU,变好,0,受威胁,受威胁,7
+458,Cyprinodon diabolis,Devil's Hole Pupfish,VU,CR,36,2014,FISHES,CR,变差,0,受威胁,受威胁,7
+462,Plectostoma retrovertens,NULL,VU,CR,36,2014,MOLLUSCS,CR,变差,0,受威胁,受威胁,7
+466,Riekoperla darlingtoni,Mount Donna Buang Wingless Stonefly,VU,CR,36,2014,OTHER INVERTEBRATES,CR,变差,0,受威胁,受威胁,7
+470,Magnolia grandis,NULL,VU,CR,36,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+474,Magnolia rostrata,NULL,VU,EN,36,2014,MAGNOLIAS,EN,变差,0,受威胁,受威胁,7
+418,Avahi laniger,Eastern Woolly Lemur,LC,VU,36,2014,MAMMALS,VU,变差,1,不受威胁,受威胁,7
+430,Mirza coquereli,Coquerel's Giant Mouse Lemur,NT,EN,36,2014,MAMMALS,EN,变差,1,不受威胁,受威胁,7
+434,Phaner pallescens,Pale Fork-marked Lemur,LC,EN,36,2014,MAMMALS,EN,变差,1,不受威胁,受威胁,7
+446,Falco fasciinucha,Taita Falcon,NT,VU,36,2014,BIRDS,VU,变差,1,不受威胁,受威胁,7
+423,Eulemur coronatus,Crowned Lemur,VU,EN,37,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+431,Mirza zaza,Northern Giant Mouse Lemur,VU,EN,37,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+435,Phaner parienti,Sambirano Fork-marked Lemur,VU,EN,37,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+439,Propithecus verreauxi,Verreaux's Sifaka,VU,EN,37,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+447,Falco punctatus,Mauritius Kestrel,VU,EN,37,2014,BIRDS,EN,变差,0,受威胁,受威胁,7
+451,Altiphrynoides osgoodi,Osgood's Ethiopian Toad,VU,CR,37,2014,AMPHIBIANS,CR,变差,0,受威胁,受威胁,7
+455,Anguilla bicolor,Shortfin Eel,LC,NT,37,2014,FISHES,NT,变差,0,不受威胁,不受威胁,7
+459,Hypomesus transpacificus,Delta Smelt,EN,CR,37,2014,FISHES,CR,变差,0,受威胁,受威胁,7
+463,Sculptiferussacia clausiliaeformis,NULL,VU,EN,37,2014,MOLLUSCS,EN,变差,0,受威胁,受威胁,7
+467,Magnolia calimaensis,NULL,EN,CR,37,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+471,Magnolia katiorum,NULL,EN,CR,37,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+475,Magnolia urraoensis,NULL,VU,EN,37,2014,MAGNOLIAS,EN,变差,0,受威胁,受威胁,7
+419,Daubentonia madagascariensis,Aye-aye,NT,EN,37,2014,MAMMALS,EN,变差,1,不受威胁,受威胁,7
+427,Lemur catta,Ring-tailed Lemur,NT,EN,37,2014,MAMMALS,EN,变差,1,不受威胁,受威胁,7
+443,Brachyramphus brevirostris,Kittlitz's Murrelet,CR,NT,37,2014,BIRDS,NT,变好,2,受威胁,不受威胁,7
+420,Eulemur albifrons,White-fronted Lemur,VU,EN,38,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+424,Eulemur mongoz,Mongoose Lemur,VU,CR,38,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+428,Lepilemur edwardsi,Milne-Edwards's Sportive Lemur,VU,EN,38,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+432,Phaner electromontis,Amber Mountain Fork-marked Lemur,VU,EN,38,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+436,Propithecus deckenii,Van der Decken’s Sifaka,VU,EN,38,2014,MAMMALS,EN,变差,0,受威胁,受威胁,7
+440,Varecia rubra,Red Ruffed Lemur,EN,CR,38,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+444,Didunculus strigirostris,Tooth-billed Pigeon,EN,CR,38,2014,BIRDS,CR,变差,0,受威胁,受威胁,7
+448,Liocichla bugunorum,Bugun Liocichla,VU,CR,38,2014,BIRDS,CR,变差,0,受威胁,受威胁,7
+452,Andinobates dorisswansonae,NULL,CR,VU,38,2014,AMPHIBIANS,VU,变好,0,受威胁,受威胁,7
+456,Catostomus santaanae,Santa Ana Sucker,VU,EN,38,2014,FISHES,EN,变差,0,受威胁,受威胁,7
+460,Luciobarbus longiceps,Jordan Barbel,VU,EN,38,2014,FISHES,EN,变差,0,受威胁,受威胁,7
+464,Polposipus herculeanus,Frigate Island Giant Tenebrionid Beetle,CR,VU,38,2014,BEETLES,VU,变好,0,受威胁,受威胁,7
+468,Magnolia cararensis,NULL,EN,CR,38,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+472,Magnolia ovoidea,NULL,EN,CR,38,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+476,Magnolia virolinensis,NULL,VU,CR,38,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+421,Eulemur cinereiceps,White-collared Lemur,EN,CR,39,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+425,Hapalemur aureus,Golden Bamboo Lemur,EN,CR,39,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+437,Propithecus diadema,Diademed Sifaka,EN,CR,39,2014,MAMMALS,CR,变差,0,受威胁,受威胁,7
+441,Accipiter erythrauchen,Rufous-necked Sparrowhawk,LC,NT,39,2014,BIRDS,NT,变差,0,不受威胁,不受威胁,7
+445,Eulidia yarrellii,Chilean Woodstar,EN,CR,39,2014,BIRDS,CR,变差,0,受威胁,受威胁,7
+449,Pica nuttalli,Yellow-billed Magpie,LC,NT,39,2014,BIRDS,NT,变差,0,不受威胁,不受威胁,7
+453,Andinobates tolimensis,NULL,EN,VU,39,2014,AMPHIBIANS,VU,变好,0,受威胁,受威胁,7
+457,Chasmistes cujus,Cui-ui,CR,EN,39,2014,FISHES,EN,变好,0,受威胁,受威胁,7
+461,Typhlogarra widdowsoni,Haditha Cave Garra,VU,CR,39,2014,FISHES,CR,变差,0,受威胁,受威胁,7
+465,Labidura herculeana,St Helena Giant Earwig,CR,EX,39,2014,OTHER INVERTEBRATES,EX,变差,0,受威胁,受威胁,7
+469,Magnolia colombiana,NULL,VU,CR,39,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+473,Magnolia polyhypsophylla,NULL,EN,CR,39,2014,MAGNOLIAS,CR,变差,0,受威胁,受威胁,7
+429,Manis crassicaudata,Indian Pangolin,NT,EN,39,2014,MAMMALS,EN,变差,1,不受威胁,受威胁,7
+433,Phaner furcifer,Masoala Fork-marked Lemur,LC,VU,39,2014,MAMMALS,VU,变差,1,不受威胁,受威胁,7
+477,Arctocephalus townsendi,Guadalupe Fur Seal,NT,LC,41,2015,MAMMALS,LC,变好,0,不受威胁,不受威胁,8
+489,Anthus pratensis,Meadow Pipit,LC,NT,41,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+493,Calidris ruficollis,Red-necked Stint,LC,NT,41,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+501,Larus audouinii,Audouin's Gull,NT,LC,41,2015,BIRDS,LC,变好,0,不受威胁,不受威胁,8
+505,Necrosyrtes monachus,Hooded Vulture,EN,CR,41,2015,BIRDS,CR,变差,0,受威胁,受威胁,8
+509,Torgos tracheliotos,Lappet-faced Vulture,VU,EN,41,2015,BIRDS,EN,变差,0,受威胁,受威胁,8
+481,Fossa fossana,Spotted Fanaloka,NT,VU,41,2015,MAMMALS,VU,变差,1,不受威胁,受威胁,8
+497,Fratercula arctica,Atlantic Puffin,LC,VU,41,2015,BIRDS,VU,变差,1,不受威胁,受威胁,8
+513,Rhinella atacamensis,Atacama Toad,LC,VU,41,2015,AMPHIBIANS,VU,变差,1,不受威胁,受威胁,8
+485,Acrocephalus sechellensis,Seychelles Warbler,VU,NT,41,2015,BIRDS,NT,变好,2,受威胁,不受威胁,8
+482,Lynx pardinus,Iberian Lynx,CR,EN,42,2015,MAMMALS,EN,变好,0,受威胁,受威胁,8
+486,Alca torda,Razorbill,LC,NT,42,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+494,Calidris tenuirostris,Great Knot,VU,EN,42,2015,BIRDS,EN,变差,0,受威胁,受威胁,8
+498,Gyps africanus,White-backed Vulture,EN,CR,42,2015,BIRDS,CR,变差,0,受威胁,受威胁,8
+502,Lathamus discolor,Swift Parrot,EN,CR,42,2015,BIRDS,CR,变差,0,受威胁,受威胁,8
+506,Numenius madagascariensis,Far Eastern Curlew,VU,EN,42,2015,BIRDS,EN,变差,0,受威胁,受威胁,8
+510,Trigonoceps occipitalis,White-headed Vulture,VU,CR,42,2015,BIRDS,CR,变差,0,受威胁,受威胁,8
+490,Aquila nipalensis,Steppe Eagle,LC,EN,42,2015,BIRDS,EN,变差,1,不受威胁,受威胁,8
+514,Coryphopterus hyalinus,Glass Goby,LC,VU,42,2015,FISHES,VU,变差,1,不受威胁,受威胁,8
+478,Capra falconeri,Markhor,EN,NT,42,2015,MAMMALS,NT,变好,2,受威胁,不受威胁,8
+483,Mungotictis decemlineata,Bokiboky,VU,EN,43,2015,MAMMALS,EN,变差,0,受威胁,受威胁,8
+491,Calidris canutus,Red Knot,LC,NT,43,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+499,Gyps coprotheres,Cape Vulture,VU,EN,43,2015,BIRDS,EN,变差,0,受威胁,受威胁,8
+503,Limosa lapponica,Bar-tailed Godwit,LC,NT,43,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+507,Pterodroma axillaris,Chatham Petrel,EN,VU,43,2015,BIRDS,VU,变好,0,受威胁,受威胁,8
+511,Psammobates geometricus,Geometric Tortoise,EN,CR,43,2015,REPTILES,CR,变差,0,受威胁,受威胁,8
+515,Maniola chia,Chios Meadow Brown,LC,NT,43,2015,LEPIDOPTERA,NT,变差,0,不受威胁,不受威胁,8
+479,Caracal aurata,African Golden Cat,NT,VU,43,2015,MAMMALS,VU,变差,1,不受威胁,受威胁,8
+487,Amytornis dorotheae,Carpentarian Grasswren,NT,VU,43,2015,BIRDS,VU,变差,1,不受威胁,受威胁,8
+495,Camarhynchus pallidus,Woodpecker Finch,LC,VU,43,2015,BIRDS,VU,变差,1,不受威胁,受威胁,8
+480,Dendrohyrax validus,Eastern Tree Hyrax,LC,NT,44,2015,MAMMALS,NT,变差,0,不受威胁,不受威胁,8
+484,Phocarctos hookeri,New Zealand Sea Lion,VU,EN,44,2015,MAMMALS,EN,变差,0,受威胁,受威胁,8
+492,Calidris ferruginea,Curlew Sandpiper,LC,NT,44,2015,BIRDS,NT,变差,0,不受威胁,不受威胁,8
+500,Gyps rueppelli,Rüppell's Vulture,EN,CR,44,2015,BIRDS,CR,变差,0,受威胁,受威胁,8
+504,Melanitta fusca,Velvet Scoter,EN,VU,44,2015,BIRDS,VU,变好,0,受威胁,受威胁,8
+512,Leiopelma hamiltoni,Hamilton's Frog,EN,VU,44,2015,AMPHIBIANS,VU,变好,0,受威胁,受威胁,8
+516,Pseudochazara amymone,NULL,VU,EN,44,2015,LEPIDOPTERA,EN,变差,0,受威胁,受威胁,8
+496,Camarhynchus psittacula,Large Tree-finch,LC,VU,44,2015,BIRDS,VU,变差,1,不受威胁,受威胁,8
+508,Rhinoplax vigil,Helmeted Hornbill,NT,CR,44,2015,BIRDS,CR,变差,1,不受威胁,受威胁,8
+488,Anas chlorotis,Brown Teal,EN,NT,44,2015,BIRDS,NT,变好,2,受威胁,不受威胁,8
+517,Ailuropoda melanoleuca,Giant Panda,EN,VU,46,2016,MAMMALS,VU,变好,0,受威胁,受威胁,9
+521,Cephalophus silvicultor,Yellow-backed Duiker,LC,NT,46,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+525,Desmana moschata,Russian Desman,VU,EN,46,2016,MAMMALS,EN,变差,0,受威胁,受威胁,9
+537,Muntiacus vuquangensis,Large-antlered Muntjac,EN,CR,46,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+541,Ornithorhynchus anatinus,Platypus,LC,NT,46,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+545,Petaurus australis,Yellow-bellied Glider,LC,NT,46,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+549,Petrogale purpureicollis,Purple-necked Rock Wallaby,LC,NT,46,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+553,Pteropus livingstonii,Livingstone's Flying Fox,EN,CR,46,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+561,Garrulax rufifrons,Rufous-fronted Laughingthrush,EN,CR,46,2016,BIRDS,CR,变差,0,受威胁,受威胁,9
+565,Pygoscelis adeliae,Adélie Penguin,NT,LC,46,2016,BIRDS,LC,变好,0,不受威胁,不受威胁,9
+569,Terenura sicki,Orange-bellied Antwren,EN,CR,46,2016,BIRDS,CR,变差,0,受威胁,受威胁,9
+573,Ameiva corvina,Sombrero Ameiva,VU,CR,46,2016,REPTILES,CR,变差,0,受威胁,受威胁,9
+581,Mesoclemmys hogei,Hoge's Side-necked Turtle,EN,CR,46,2016,REPTILES,CR,变差,0,受威胁,受威胁,9
+585,Bedotia marojejy,NULL,VU,EN,46,2016,FISHES,EN,变差,0,受威胁,受威胁,9
+593,Ptychochromoides betsileanus,Trondo Mainty,CR,CR,46,2016,FISHES,CR,变好,0,受威胁,受威胁,9
+597,Bellamya phthinotropis,NULL,EN,CR,46,2016,MOLLUSCS,CR,变差,0,受威胁,受威胁,9
+601,Gabbiella barthi,NULL,EN,CR,46,2016,MOLLUSCS,CR,变差,0,受威胁,受威胁,9
+529,Giraffa camelopardalis,Giraffe,LC,VU,46,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+557,Chloropsis sonnerati,Greater Green Leafbird,LC,VU,46,2016,BIRDS,VU,变差,1,不受威胁,受威胁,9
+577,Cycloderma frenatum,Zambezi Flapshell Turtle,NT,EN,46,2016,REPTILES,EN,变差,1,不受威胁,受威胁,9
+589,Pachypanchax omalonota,NULL,LC,EN,46,2016,FISHES,EN,变差,1,不受威胁,受威胁,9
+605,Acrostira tamarani,Gran Canaria Stick Grasshopper,NT,EN,46,2016,GRASSHOPPERS & CRICKETS,EN,变差,1,不受威胁,受威胁,9
+533,Leporillus conditor,Greater Stick-nest Rat,VU,NT,46,2016,MAMMALS,NT,变好,2,受威胁,不受威胁,9
+526,Equus quagga,Plains Zebra,LC,NT,47,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+530,Gorilla beringei,Eastern Gorilla,EN,CR,47,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+534,Melomys rubicola,Bramble Cay Melomys,CR,EX,47,2016,MAMMALS,EX,变差,0,受威胁,受威胁,9
+546,Petrogale godmani,Godman's Rock Wallaby,LC,NT,47,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+554,Thylamys fenestrae,NULL,LC,NT,47,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+558,Cyanoramphus forbesi,Chatham Parakeet,EN,VU,47,2016,BIRDS,VU,变好,0,受威胁,受威胁,9
+566,Pygoscelis papua,Gentoo Penguin,NT,LC,47,2016,BIRDS,LC,变好,0,不受威胁,不受威胁,9
+574,Chelonoidis abingdonii,Pinta Giant Tortoise,EW,EX,47,2016,REPTILES,EX,变差,0,受威胁,受威胁,9
+578,Erythrolamprus cursor,Lacépède's Ground Snake,CR,CR,47,2016,REPTILES,CR,变好,0,受威胁,受威胁,9
+582,Podocnemis lewyana,Magdalena River Turtle,EN,CR,47,2016,REPTILES,CR,变差,0,受威胁,受威胁,9
+590,Paretroplus dambabe,NULL,EN,CR,47,2016,FISHES,CR,变差,0,受威胁,受威胁,9
+594,Rheocles alaotrensis,Katrana,VU,EN,47,2016,FISHES,EN,变差,0,受威胁,受威胁,9
+598,Ceratophallus concavus,NULL,EN,CR,47,2016,MOLLUSCS,CR,变差,0,受威胁,受威胁,9
+606,Chrysochraon beybienkoi,Calabrian Gold Grasshopper,VU,CR,47,2016,GRASSHOPPERS & CRICKETS,CR,变差,0,受威胁,受威胁,9
+518,Antechinus bellus,Fawn Antechinus,LC,VU,47,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+522,Conilurus penicillatus,Brush-tailed Rabbit-rat,NT,VU,47,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+550,Phascolarctos cinereus,Koala,LC,VU,47,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+562,Hydrobates leucorhous,Leach's Storm-petrel,LC,VU,47,2016,BIRDS,VU,变差,1,不受威胁,受威胁,9
+570,Zosterops flavus,Javan White-eye,NT,VU,47,2016,BIRDS,VU,变差,1,不受威胁,受威胁,9
+586,Eusphyra blochii,Winghead Shark,NT,EN,47,2016,FISHES,EN,变差,1,不受威胁,受威胁,9
+602,Agriocnemis palaeforma,Papyrus Wisp,NT,VU,47,2016,DRAGONFLIES & DAMSELFLIES,VU,变差,1,不受威胁,受威胁,9
+538,Notomys cervinus,Fawn Hopping-mouse,VU,NT,47,2016,MAMMALS,NT,变好,2,受威胁,不受威胁,9
+542,Pantholops hodgsonii,Tibetan Antelope,EN,NT,47,2016,MAMMALS,NT,变好,2,受威胁,不受威胁,9
+519,Cephalophus dorsalis,Bay Duiker,LC,NT,48,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+527,Eupleres goudotii,Eastern Falanouc,EN,VU,48,2016,MAMMALS,VU,变好,0,受威胁,受威胁,9
+531,Gymnobelideus leadbeateri,Leadbeater's Possum,EN,CR,48,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+551,Pongo pygmaeus,Bornean Orangutan,EN,CR,48,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+555,Thylamys velutinus,Dwarf Fat-tailed Mouse Opossum,LC,NT,48,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+563,Icterus oberi,Montserrat Oriole,CR,VU,48,2016,BIRDS,VU,变好,0,受威胁,受威胁,9
+567,Pyrrhula murina,Azores Bullfinch,EN,VU,48,2016,BIRDS,VU,变好,0,受威胁,受威胁,9
+571,Zosterops modestus,Seychelles White-eye,EN,VU,48,2016,BIRDS,VU,变好,0,受威胁,受威胁,9
+579,Erythrolamprus ornatus,Ornate Ground Snake,EN,CR,48,2016,REPTILES,CR,变差,0,受威胁,受威胁,9
+583,Arius festinus,NULL,EN,CR,48,2016,FISHES,CR,变差,0,受威胁,受威胁,9
+587,Katria katria,Kataria,VU,EN,48,2016,FISHES,EN,变差,0,受威胁,受威胁,9
+591,Paretroplus gymnopreopercularis,NULL,EN,CR,48,2016,FISHES,CR,变差,0,受威胁,受威胁,9
+595,Rheocles derhami,NULL,VU,CR,48,2016,FISHES,CR,变差,0,受威胁,受威胁,9
+523,Dasyurus viverrinus,Eastern Quoll,NT,EN,48,2016,MAMMALS,EN,变差,1,不受威胁,受威胁,9
+535,Mesembriomys gouldii,Black-footed Tree-rat,NT,VU,48,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+539,Nyctalus lasiopterus,Giant Noctule,NT,VU,48,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+543,Perameles gunnii,Eastern Barred Bandicoot,NT,VU,48,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+547,Petrogale lateralis,Black-footed Rock Wallaby,NT,VU,48,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+559,Emberiza rustica,Rustic Bunting,LC,VU,48,2016,BIRDS,VU,变差,1,不受威胁,受威胁,9
+575,Cyclanorbis elegans,Nubian Flapshell Turtle,NT,CR,48,2016,REPTILES,CR,变差,1,不受威胁,受威胁,9
+599,Ceratophallus crassus,NULL,NT,EN,48,2016,MOLLUSCS,EN,变差,1,不受威胁,受威胁,9
+603,Neodythemis nyungwe,Nyungwe Junglewatcher,NT,VU,48,2016,DRAGONFLIES & DAMSELFLIES,VU,变差,1,不受威胁,受威胁,9
+520,Cephalophus leucogaster,White-bellied Duiker,LC,NT,49,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+532,Hipposideros hypophyllus,Kolar Leaf-nosed Bat,EN,CR,49,2016,MAMMALS,CR,变差,0,受威胁,受威胁,9
+536,Muntiacus atherodes,Bornean Yellow Muntjac,LC,NT,49,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+540,Onychogalea fraenata,Bridled Nailtail Wallaby,EN,VU,49,2016,MAMMALS,VU,变好,0,受威胁,受威胁,9
+548,Petrogale mareeba,Mareeba Rock Wallaby,LC,NT,49,2016,MAMMALS,NT,变差,0,不受威胁,不受威胁,9
+556,Charadrius sanctaehelenae,St Helena Plover,CR,VU,49,2016,BIRDS,VU,变好,0,受威胁,受威胁,9
+560,Garrulax bicolor,Black-and-white Laughingthrush,VU,EN,49,2016,BIRDS,EN,变差,0,受威胁,受威胁,9
+564,Pycnonotus zeylanicus,Straw-headed Bulbul,VU,EN,49,2016,BIRDS,EN,变差,0,受威胁,受威胁,9
+572,Acanthochelys pallidipectoris,Chaco Side-necked Turtle,VU,EN,49,2016,REPTILES,EN,变差,0,受威胁,受威胁,9
+596,Rhincodon typus,Whale Shark,VU,EN,49,2016,FISHES,EN,变差,0,受威胁,受威胁,9
+600,Cleopatra cridlandi,NULL,VU,CR,49,2016,MOLLUSCS,CR,变差,0,受威胁,受威胁,9
+524,Dendrolagus spadix,Lowlands Tree Kangaroo,LC,VU,49,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+528,Galidictis fasciata,Broad-striped Vontsira,NT,VU,49,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+544,Petauroides volans,Greater Glider,LC,VU,49,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+552,Pteropus caniceps,North Moluccan Flying Fox,NT,VU,49,2016,MAMMALS,VU,变差,1,不受威胁,受威胁,9
+568,Sternula balaenarum,Damara Tern,NT,VU,49,2016,BIRDS,VU,变差,1,不受威胁,受威胁,9
+576,Cyclanorbis senegalensis,Senegal Flapshell Turtle,NT,VU,49,2016,REPTILES,VU,变差,1,不受威胁,受威胁,9
+580,Liolaemus dicktracyi,NULL,LC,VU,49,2016,REPTILES,VU,变差,1,不受威胁,受威胁,9
+584,Bedotia longianalis,Zona,LC,EN,49,2016,FISHES,EN,变差,1,不受威胁,受威胁,9
+592,Ptychochromis oligacanthus,NULL,LC,EN,49,2016,FISHES,EN,变差,1,不受威胁,受威胁,9
+604,Acrostira bellamyi,Gomera Stick Grasshopper,NT,CR,49,2016,GRASSHOPPERS & CRICKETS,CR,变差,1,不受威胁,受威胁,9
+588,Marcusenius victoriae,Victoria Stonebasher,EN,LC,49,2016,FISHES,LC,变好,2,受威胁,不受威胁,9
+611,Orcaella brevirostris,Irrawaddy Dolphin,VU,EN,51,2017,MAMMALS,EN,变差,0,受威胁,受威胁,10
+615,Pteropus rennelli,Rennell Flying Fox,VU,EN,51,2017,MAMMALS,EN,变差,0,受威胁,受威胁,10
+623,Diomedea antipodensis,Antipodean Albatross,VU,EN,51,2017,BIRDS,EN,变差,0,受威胁,受威胁,10
+627,Mimus trifasciatus,Floreana Mockingbird,CR,EN,51,2017,BIRDS,EN,变好,0,受威胁,受威胁,10
+631,Pedionomus torquatus,Plains-wanderer,EN,CR,51,2017,BIRDS,CR,变差,0,受威胁,受威胁,10
+635,Sporophila maximiliani,Great-billed Seed-finch,VU,EN,51,2017,BIRDS,EN,变差,0,受威胁,受威胁,10
+639,Emoia nativitatis,Christmas Island Whiptail-skink,CR,EX,51,2017,REPTILES,EX,变差,0,受威胁,受威胁,10
+643,Platysaurus relictus,Soutpansberg Flat Lizard,NT,LC,51,2017,REPTILES,LC,变好,0,不受威胁,不受威胁,10
+607,Aotus nancymaae,Nancy Ma’s Night Monkey,LC,VU,51,2017,MAMMALS,VU,变差,1,不受威胁,受威胁,10
+647,Pristimantis molybrignus,Uribe Robber Frog,NT,CR,51,2017,AMPHIBIANS,CR,变差,1,不受威胁,受威胁,10
+655,Malacolimax wiktori,NULL,NT,EN,51,2017,MOLLUSCS,EN,变差,1,不受威胁,受威胁,10
+619,Amazona brasiliensis,Red-tailed Amazon,VU,NT,51,2017,BIRDS,NT,变好,2,受威胁,不受威胁,10
+651,Amphorella melampoides,NULL,VU,LC,51,2017,MOLLUSCS,LC,变好,2,受威胁,不受威胁,10
+608,Eudorcas tilonura,Heuglin's Gazelle,VU,EN,52,2017,MAMMALS,EN,变差,0,受威胁,受威胁,10
+612,Pelea capreolus,Grey Rhebok,LC,NT,52,2017,MAMMALS,NT,变差,0,不受威胁,不受威胁,10
+616,Pteropus rodricensis,Rodrigues Flying Fox,CR,EN,52,2017,MAMMALS,EN,变好,0,受威胁,受威胁,10
+620,Apteryx mantelli,Northern Brown Kiwi,EN,VU,52,2017,BIRDS,VU,变好,0,受威胁,受威胁,10
+624,Emberiza aureola,Yellow-breasted Bunting,EN,CR,52,2017,BIRDS,CR,变差,0,受威胁,受威胁,10
+644,Ramphotyphlops exocoeti,Christmas Island Blind Snake,VU,EN,52,2017,REPTILES,EN,变差,0,受威胁,受威胁,10
+648,Chiloglanis bifurcus,Incomati Suckermouth,EN,CR,52,2017,BONY FISHES,CR,变差,0,受威胁,受威胁,10
+628,Myrmotherula klagesi,Klages's Antwren,NT,VU,52,2017,BIRDS,VU,变差,1,不受威胁,受威胁,10
+640,Homopholis mulleri,Muller's Velvet Gecko,NT,VU,52,2017,REPTILES,VU,变差,1,不受威胁,受威胁,10
+652,Boettgeria crispa,NULL,NT,EN,52,2017,MOLLUSCS,EN,变差,1,不受威胁,受威胁,10
+656,Obovaria subrotunda,Round Hickorynut,NT,EN,52,2017,MOLLUSCS,EN,变差,1,不受威胁,受威胁,10
+632,Pelecanus crispus,Dalmatian Pelican,VU,NT,52,2017,BIRDS,NT,变好,2,受威胁,不受威胁,10
+636,Troglodytes cobbi,Cobb's Wren,VU,LC,52,2017,BIRDS,LC,变好,2,受威胁,不受威胁,10
+609,Kobus leche,Southern Lechwe,LC,NT,53,2017,MAMMALS,NT,变差,0,不受威胁,不受威胁,10
+613,Pipistrellus murrayi,Christmas Island Pipistrelle,CR,EX,53,2017,MAMMALS,EX,变差,0,受威胁,受威胁,10
+621,Apteryx rowi,Okarito Kiwi,EN,VU,53,2017,BIRDS,VU,变好,0,受威胁,受威胁,10
+625,Garrulax mitratus,Chestnut-capped Laughingthrush,LC,NT,53,2017,BIRDS,NT,变差,0,不受威胁,不受威胁,10
+629,Nestor notabilis,Kea,VU,EN,53,2017,BIRDS,EN,变差,0,受威胁,受威胁,10
+633,Procellaria westlandica,Westland Petrel,VU,EN,53,2017,BIRDS,EN,变差,0,受威胁,受威胁,10
+645,Gastrotheca antomia,NULL,VU,CR,53,2017,AMPHIBIANS,CR,变差,0,受威胁,受威胁,10
+653,Boettgeria obesiuscula,NULL,VU,CR,53,2017,MOLLUSCS,CR,变差,0,受威胁,受威胁,10
+657,Oxychilus agostinhoi,NULL,VU,CR,53,2017,MOLLUSCS,CR,变差,0,受威胁,受威胁,10
+617,Redunca fulvorufula,Mountain Reedbuck,LC,EN,53,2017,MAMMALS,EN,变差,1,不受威胁,受威胁,10
+641,Homopus signatus,Speckled Dwarf Tortoise,NT,VU,53,2017,REPTILES,VU,变差,1,不受威胁,受威胁,10
+649,Enteromius gurneyi,Redtail Barb,LC,VU,53,2017,BONY FISHES,VU,变差,1,不受威胁,受威胁,10
+637,Ctenotus zastictus,Hamelin Ctenotus,VU,NT,53,2017,REPTILES,NT,变好,2,受威胁,不受威胁,10
+610,Neophocaena asiaeorientalis,Narrow-ridged Finless Porpoise,VU,EN,54,2017,MAMMALS,EN,变差,0,受威胁,受威胁,10
+614,Pseudocheirus occidentalis,Western Ringtail Possum,VU,CR,54,2017,MAMMALS,CR,变差,0,受威胁,受威胁,10
+622,Charadrius obscurus,Southern Red-breasted Plover,EN,CR,54,2017,BIRDS,CR,变差,0,受威胁,受威胁,10
+638,Delma impar,Striped Legless Lizard,VU,EN,54,2017,REPTILES,EN,变差,0,受威胁,受威胁,10
+642,Lepidodactylus listeri,Christmas Island Chained Gecko,VU,EW,54,2017,REPTILES,EW,变差,0,受威胁,受威胁,10
+618,Tragelaphus derbianus,Giant Eland,LC,VU,54,2017,MAMMALS,VU,变差,1,不受威胁,受威胁,10
+626,Lanius meridionalis,Iberian Grey Shrike,LC,VU,54,2017,BIRDS,VU,变差,1,不受威胁,受威胁,10
+630,Oxyura maccoa,Maccoa Duck,NT,VU,54,2017,BIRDS,VU,变差,1,不受威胁,受威胁,10
+634,Rissa tridactyla,Black-legged Kittiwake,LC,VU,54,2017,BIRDS,VU,变差,1,不受威胁,受威胁,10
+646,Gastrotheca aureomaculata,Gold-spotted Marsupial Frog,NT,EN,54,2017,AMPHIBIANS,EN,变差,1,不受威胁,受威胁,10
+654,Ligumia nasuta,Eastern Pondmussel,NT,VU,54,2017,MOLLUSCS,VU,变差,1,不受威胁,受威胁,10
+650,Amphorella cimensis,NULL,VU,NT,54,2017,MOLLUSCS,NT,变好,2,受威胁,不受威胁,10
+658,Balaenoptera physalus,Fin Whale,EN,VU,56,2018,MAMMALS,VU,变好,0,受威胁,受威胁,11
+662,Pteropus niger,Greater Mascarene Flying Fox,VU,EN,56,2018,MAMMALS,EN,变差,0,受威胁,受威胁,11
+666,Diomedea amsterdamensis,Amsterdam Albatross,CR,EN,56,2018,BIRDS,EN,变好,0,受威胁,受威胁,11
+670,Lonchura oryzivora,Java Sparrow,VU,EN,56,2018,BIRDS,EN,变差,0,受威胁,受威胁,11
+674,Passerculus henslowii,Henslow's Sparrow,NT,LC,56,2018,BIRDS,LC,变好,0,不受威胁,不受威胁,11
+678,Puffinus newelli,Newell's Shearwater,EN,CR,56,2018,BIRDS,CR,变差,0,受威胁,受威胁,11
+682,Tachybaptus pelzelnii,Madagascar Grebe,VU,EN,56,2018,BIRDS,EN,变差,0,受威胁,受威胁,11
+690,Phelsuma guentheri,Round Island Day Gecko,EN,VU,56,2018,REPTILES,VU,变好,0,受威胁,受威胁,11
+694,Atelopus pulcher,Arlequín Camuflado Peruano,CR,VU,56,2018,AMPHIBIANS,VU,变好,0,受威胁,受威胁,11
+702,Aulonocara kandeense,Blue Orchid Aulonocara,VU,CR,56,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+706,Chindongo saulosi,NULL,VU,CR,56,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+710,Mchenga conophoros,NULL,VU,CR,56,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+714,Oreochromis karongae,Chamba,EN,CR,56,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+726,Caridina dennerli,Sulawesi Cardinal Shrimp,EN,CR,56,2018,CRABS & CRAYFISHES,CR,变差,0,受威胁,受威胁,11
+718,Serranochromis robustus,NULL,LC,CR,56,2018,BONY FISHES,CR,变差,1,不受威胁,受威胁,11
+722,Hystricella echinulata,NULL,LC,EN,56,2018,MOLLUSCS,EN,变差,1,不受威胁,受威胁,11
+686,Cryptactites peringueyi,Salt Marsh Gecko,CR,NT,56,2018,REPTILES,NT,变好,2,受威胁,不受威胁,11
+698,Platymantis banahao,NULL,VU,NT,56,2018,AMPHIBIANS,NT,变好,2,受威胁,不受威胁,11
+659,Eudorcas thomsonii,Thomson's Gazelle,NT,LC,57,2018,MAMMALS,LC,变好,0,不受威胁,不受威胁,11
+663,Ara rubrogenys,Red-fronted Macaw,EN,CR,57,2018,BIRDS,CR,变差,0,受威胁,受威胁,11
+667,Euryceros prevostii,Helmet Vanga,VU,EN,57,2018,BIRDS,EN,变差,0,受威胁,受威胁,11
+671,Melanerpes erythrocephalus,Red-headed Woodpecker,NT,LC,57,2018,BIRDS,LC,变好,0,不受威胁,不受威胁,11
+675,Prinia familiaris,Bar-winged Prinia,LC,NT,57,2018,BIRDS,NT,变差,0,不受威胁,不受威胁,11
+679,Pycnonotus zeylanicus,Straw-headed Bulbul,EN,CR,57,2018,BIRDS,CR,变差,0,受威胁,受威胁,11
+683,Carettochelys insculpta,Pig-nosed Turtle,VU,EN,57,2018,REPTILES,EN,变差,0,受威胁,受威胁,11
+687,Gopherus flavomarginatus,Bolson Tortoise,VU,CR,57,2018,REPTILES,CR,变差,0,受威胁,受威胁,11
+691,Psammobates tentorius,Tent Tortoise,LC,NT,57,2018,REPTILES,NT,变差,0,不受威胁,不受威胁,11
+699,Werneria bambutensis,Bamboutos Smalltongue Toad,EN,CR,57,2018,AMPHIBIANS,CR,变差,0,受威胁,受威胁,11
+703,Aulonocara maylandi,Sulphur Head Aulonocara,VU,CR,57,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+707,Copadichromis azureus,NULL,LC,NT,57,2018,BONY FISHES,NT,变差,0,不受威胁,不受威胁,11
+711,Melanochromis chipokae,NULL,VU,CR,57,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+715,Oreochromis squamipinnis,Chamba,EN,CR,57,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+723,Ischnura gemina,San Francisco Forktail,VU,EN,57,2018,DRAGONFLIES & DAMSELFLIES,EN,变差,0,受威胁,受威胁,11
+727,Caridina spongicola,NULL,EN,CR,57,2018,CRABS & CRAYFISHES,CR,变差,0,受威胁,受威胁,11
+719,Trematocranus microstoma,Haplochromis Placodon Pointed Head,LC,EN,57,2018,BONY FISHES,EN,变差,1,不受威胁,受威胁,11
+695,Leptobrachella arayai,Kinabalu Slender Litter Frog,VU,LC,57,2018,AMPHIBIANS,LC,变好,2,受威胁,不受威胁,11
+660,Geocapromys brownii,Brown's Hutia,VU,EN,58,2018,MAMMALS,EN,变差,0,受威胁,受威胁,11
+668,Garrulax palliatus,Sunda Laughingthrush,LC,NT,58,2018,BIRDS,NT,变差,0,不受威胁,不受威胁,11
+672,Nesoenas mayeri,Pink Pigeon,EN,VU,58,2018,BIRDS,VU,变好,0,受威胁,受威胁,11
+680,Sitta insularis,Bahama Nuthatch,EN,CR,58,2018,BIRDS,CR,变差,0,受威胁,受威胁,11
+688,Iguana delicatissima,Lesser Antillean Iguana,EN,CR,58,2018,REPTILES,CR,变差,0,受威胁,受威胁,11
+692,Tympanocryptis pinguicolla,Grassland Earless Dragon,VU,EN,58,2018,REPTILES,EN,变差,0,受威胁,受威胁,11
+700,Werneria tandyi,Tandy's Smalltongue Toad,EN,CR,58,2018,AMPHIBIANS,CR,变差,0,受威胁,受威胁,11
+712,Melanochromis lepidiadaptes,NULL,VU,CR,58,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+720,Dipturus innominatus,Smooth Skate,NT,LC,58,2018,SHARKS & RAYS,LC,变好,0,不受威胁,不受威胁,11
+724,Eurytides iphitas,Yellow Kite Swallowtail,VU,EN,58,2018,MOTHS & BUTTERFLIES,EN,变差,0,受威胁,受威胁,11
+664,Carpococcyx renauldi,Coral-billed Ground-cuckoo,LC,VU,58,2018,BIRDS,VU,变差,1,不受威胁,受威胁,11
+676,Psittacula longicauda,Long-tailed Parakeet,NT,VU,58,2018,BIRDS,VU,变差,1,不受威胁,受威胁,11
+684,Chersobius boulengeri,Karoo Dwarf Tortoise,NT,EN,58,2018,REPTILES,EN,变差,1,不受威胁,受威胁,11
+696,Nannophryne cophotis,Paramo Toad,LC,CR,58,2018,AMPHIBIANS,CR,变差,1,不受威胁,受威胁,11
+704,Bagrus meridionalis,Kampango,LC,CR,58,2018,BONY FISHES,CR,变差,1,不受威胁,受威胁,11
+708,Corematodus shiranus,NULL,LC,CR,58,2018,BONY FISHES,CR,变差,1,不受威胁,受威胁,11
+716,Pseudotropheus brevis,NULL,LC,EN,58,2018,BONY FISHES,EN,变差,1,不受威胁,受威胁,11
+669,Geronticus eremita,Northern Bald Ibis,CR,EN,59,2018,BIRDS,EN,变好,0,受威胁,受威胁,11
+673,Oriolia bernieri,Bernier's Vanga,VU,EN,59,2018,BIRDS,EN,变差,0,受威胁,受威胁,11
+677,Pterodroma sandwichensis,Hawaiian Petrel,VU,EN,59,2018,BIRDS,EN,变差,0,受威胁,受威胁,11
+681,Somateria fischeri,Spectacled Eider,LC,NT,59,2018,BIRDS,NT,变差,0,不受威胁,不受威胁,11
+685,Chersobius signatus,Speckled Dwarf Tortoise,VU,EN,59,2018,REPTILES,EN,变差,0,受威胁,受威胁,11
+693,Ansonia guibei,Mesilau Stream Toad,EN,CR,59,2018,AMPHIBIANS,CR,变差,0,受威胁,受威胁,11
+697,Nannophryne corynetes,Abra Malaga Toad,VU,EN,59,2018,AMPHIBIANS,EN,变差,0,受威胁,受威胁,11
+709,Hyporthodus ergastularius,Banded Rockcod,LC,NT,59,2018,BONY FISHES,NT,变差,0,不受威胁,不受威胁,11
+717,Pseudotropheus cyaneorhabdos,NULL,VU,CR,59,2018,BONY FISHES,CR,变差,0,受威胁,受威胁,11
+721,Bellamya robertsoni,NULL,EN,CR,59,2018,MOLLUSCS,CR,变差,0,受威胁,受威胁,11
+661,Oryx beisa,Beisa Oryx,NT,EN,59,2018,MAMMALS,EN,变差,1,不受威胁,受威胁,11
+665,Chaetura pelagica,Chimney Swift,NT,VU,59,2018,BIRDS,VU,变差,1,不受威胁,受威胁,11
+689,Larutia miodactyla,Single Finger Larut Skink,LC,VU,59,2018,REPTILES,VU,变差,1,不受威胁,受威胁,11
+701,Aulonocara guentheri,NULL,LC,EN,59,2018,BONY FISHES,EN,变差,1,不受威胁,受威胁,11
+705,Champsochromis spilorhynchus,NULL,LC,EN,59,2018,BONY FISHES,EN,变差,1,不受威胁,受威胁,11
+713,Nimbochromis fuscotaeniatus,NULL,LC,VU,59,2018,BONY FISHES,VU,变差,1,不受威胁,受威胁,11
+725,Parides burchellanus,NULL,NT,EN,59,2018,MOTHS & BUTTERFLIES,EN,变差,1,不受威胁,受威胁,11
