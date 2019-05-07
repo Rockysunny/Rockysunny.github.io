@@ -232,7 +232,7 @@
 
 	footer {
 		font-weight: 500;
-		background: #887245;
+		background: #001d3a;
 		color: #fff;
 		margin: 0 auto;
 		font-size: 9pt;
@@ -242,7 +242,7 @@
 
 	footer div{
 		font-family: "arial", "helvetica", sans-serif;
-		margin: 0.05rem auto;
+		margin: 0.03rem auto;
 		text-align: center;
 	}
 /*-----关于信息图的css-------------------------------------------------------------------------------------*/
