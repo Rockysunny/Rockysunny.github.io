@@ -164,8 +164,8 @@ function bubblechart() {
                       .attr('x',width / 2)
                       .attr('y',20)
                       .attr('text-anchor', 'middle')
-                      .attr('fill','#c28f53')
-                      .attr('stroke','#c28f53')
+                      .attr('fill','#70716f')
+                      .attr('stroke','#70716f')
                       .text('世界各国与我国签约总量');
         svg.selectAll('.year').remove();}
   	function showYearTitles() {
@@ -179,8 +179,8 @@ function bubblechart() {
 	      .attr('x', function (d) { return yearsTitleX[d]; })
 	      .attr('y', 20)
 	      .attr('text-anchor', 'middle')
-        .attr('fill','#334')
-        .attr('stroke','#334')
+        .attr('fill','#70716f')
+        .attr('stroke','#70716f')
 	      .text(function (d) { return d; });
       svg.selectAll('.bubbletitle').remove()
 	  }
