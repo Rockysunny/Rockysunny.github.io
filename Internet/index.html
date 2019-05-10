@@ -8,85 +8,22 @@
 	<!-- 以下为css -->
 	<link rel="stylesheet" href="" />
 	<link rel="stylesheet" href="css/main.css" />
+	<link rel="stylesheet" href="css/reset.css" />
 	<!-- 以下为js库 -->
 	<script src="scripts/ScrollMagic.min.js"></script>
 	<!-- jquery线上lib -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <!-- for sort -->
     <script src="scripts/isotope.pkgd.min.js"></script>
-	<title>七千外交条约：七十周年风云</title>
-	<style>
-
-
-		.icon img{
-			margin:0 auto;
-			width: 100px;
-			height: 100px;
-		}
-
-		.node rect {
-		  fill-opacity: .9;
-		  shape-rendering: crispEdges;
-		};
-		.node text {
-		  pointer-events: none;
-		  text-shadow: 0 1px 0 #fff;
-		}
-		.link {
-		  fill: none;
-		  stroke-opacity: .1;
-		  stroke: #666;
-		}
-		.link:hover {
-		  stroke-opacity: .5;
-		}
-	    .chart {
-          float: left;
-          padding-right: 8px;
-          padding-bottom: 8px;
-          padding-top:8px;
-          padding-left:8px;
-        }
-
-        .background {
-          fill: none;
-        }
-
-        .title {
-          font-size: 12px;
-        }
-
-        .axis line, .grid line {
-          stroke-width: .5px;
-          shape-rendering: crispEdges;
-          stroke: #fff;
-          opacity: 0.5;
-          pointer-events: none;
-        }
-
-        .axis path {
-          display: none;
-        }
-
-        .hidden {
-          display:none;
-          opacity: 0.0;
-        }
-
-        .label {
-            fill: steelblue;
-        }
-
-        .endpoint {
-            fill: #666;
-        }
+	<title>走向远方:中国互联网的下一页</title>
+	<style>    
 	</style>
 </head>
 <body>
 	<header>
 		<!-- 这是标题 -->
 		<div id="title">
-				<h1>七千外交条约<br>七十周年风云</h1>
+				<h1>走向远方<br>中国互联网的下一页</h1>
 		</div>
 	</header>
 
@@ -105,9 +42,9 @@
 			<p>相距2770公里，在清华读书的彭xx正在和远在新疆的父母视频连线。看着父母餐桌上摆着的炒面，他隔着屏幕都能感受那种独属于家乡的味道。而这一切都得益于互联网的发展。</p>
 			<p>从衣食住行到社会管理，互联网在过去的25年中以一种全新的速度改变着这个拥有5000年历史的国家。根据中国互联网络信息中心2019年2月发布的《第43次中国互联网络发展状况统计报告》（以下简称“报告”），中国网民规模已经达到8.29亿。相比于1997年第一次普查时的62万，这一数字在22年间翻了1337倍，显示了网络正在以一种急速扩张的姿态进入每一个普通人的生活。</p>
 		    <figure id="firstchart">
-		      	<svg id="peoplechart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="	http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 940 450" xml:space="preserve" preserveAspectRatio="xMidYMid slice"></svg>
+		      	<svg id="peoplechart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="	http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 960 500" enable-background="new 0 0 940 450" xml:space="preserve" preserveAspectRatio="xMidYMid slice"></svg>
 		    </figure>
-			<p>但这种扩张并不全面，在互联网已经成为东部大城市司空见惯的工具的时候，在相距互联网中心区域更遥远的中国内陆却依然有着数亿的人无法使用互联网。2016年的调查结果显示中国互联网普及率最高的上海77.8%的人都可以使用互联网，但在相对偏远的云南这一比例仅仅有39.9%，二者之间有着接近一倍的差距。不同地区网络的基础设施资源与民众的使用能力，正在区域经济发展不均衡的基础上被继续拉大。</p>
+			<p id="trigger">但这种扩张并不全面，在互联网已经成为东部大城市司空见惯的工具的时候，在相距互联网中心区域更遥远的中国内陆却依然有着数亿的人无法使用互联网。2016年的调查结果显示中国互联网普及率最高的上海77.8%的人都可以使用互联网，但在相对偏远的云南这一比例仅仅有39.9%，二者之间有着接近一倍的差距。不同地区网络的基础设施资源与民众的使用能力，正在区域经济发展不均衡的基础上被继续拉大。</p>
 		    <figure id="bubblechart">
 		      	<svg id="vis" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="	http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 940 450" enable-background="new 0 0 940 450" xml:space="preserve" preserveAspectRatio="xMidYMid slice"></svg>
 		    </figure>
@@ -115,7 +52,7 @@
 			<p>学者刘骏曾从城乡居民间互联网技术意识、接入条件、使用状况、使用环境的差异来构建的指标系统，描述中国31个省市自治区的数字鸿沟程度，结果显示31个省份均有着十分严重数字鸿沟问题。而从地区角度来看地区进行分析，东部区域数字鸿沟的平均数值达到1.983，中部区域的平均数值达到 2.874，西部区域的人均数值则高达到4.565，并有着不断增大的趋势。这也就意味着在原本互联网发展水平就比较低的西部地区，也是差异最大的地区。</p>
 			<br>
 		</section>
-
+		
 		<section id="chapter1">
 			<div class="interactive">
 				<div id="chinamap" class="map">
@@ -138,15 +75,6 @@
 				</div>
 			</div>
 		</section>
-<!-- 		<section id="chapter2">
-			<div class="icon" >
-				<img src="img/象棋2.png">
-			</div>
-			<div>
-            	<figure id="mutiplevis" class="clearfix" style="max-width:700px"></figure>
-		    </div>    
-		</section> -->
-
 		<section id="chapter3">
 			<div class="icon" >
 				<img src="img/象棋3.png">

@@ -43,10 +43,10 @@ d3.csv("data/mapdata.csv",function(error,chartdata){
    		duration:document.getElementById("text004").height + document.documentElement.clientHeight
     }).addTo(C).on("enter",function(e){makemap(index4,color4);});
 });
-color1=["#3E5DAF","#f7fbff"];
-color2=["#f7fbff","#9cdbe5"];
-color3=["#f7fbff","#5F88BE"];
-color4=["#f7fbff","#8AC4D5"];
+color1=["#02AAE5","#f7fbff"];
+color2=["#f7fbff","#E06902"];
+color3=["#f7fbff","#E7D140"];
+color4=["#f7fbff","#A6DC30"];
 function makemap(index,color){
 	d3.select(".legendLinear").remove();
 	Array.from(index).forEach(function(d){
@@ -310,5 +310,62 @@ function spiralplot(){
     });
     })
 }
+function makebarchart(){
+  //准备画布大小
+  var margin = {top: 40, right: 20, bottom: 30, left: 40},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+  // *
+  var xScale = d3.scaleBand().range([0,width])
+                             .paddingInner(0.3)
+                              .paddingOuter(0.3);
+  var yScale = d3.scaleLinear().range([height, 0]);
+  // *
+  var xAxis = d3.axisBottom(xScale);
+  var yAxis = d3.axisLeft(yScale);
+
+  // 开始准备svg
+  var svg = d3.select("#peoplechart").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  d3.csv("data/popinternet", function(error, data) {
+    data.forEach(function(d){
+          d.value = +d.value;    
+    })
+    // 完善X轴比例尺的DOMAIN
+    xScale.domain(data.map(function(d) { return d.year; }));
+
+    yScale.domain([0,d3.max(data, function(d) { return d.value;})*1.1
+      ]);
+    //将X轴下移 
+    svg.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+        .call(xAxis);
+    // Y轴样式设计？？？？
+    svg.append("g")
+        .attr("class", "y axis")
+        .call(yAxis)
+       .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y",6)
+        .attr("dy",".71em")
+        .style("text-anchor", "end")
+        .text("Frequency");
+
+    svg.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function(d) { return xScale(d.year); })
+        .attr("width", xScale.bandwidth())
+        .attr("y", function(d) { return yScale(d.value); })
+        .attr("height", function(d) { 
+          return height - yScale(d.value); })
+});
+}
 pinchart();
-spiralplot()
+makebarchart();
