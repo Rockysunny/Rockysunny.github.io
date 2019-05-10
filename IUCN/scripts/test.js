@@ -201,7 +201,7 @@ d3.csv("animaldata.csv",function(error,chartdata){
 		.text(function(d,i){return d;});		
 	// 现在返回	"scrollbegan"即可完成切换动效，接下来是控制颜色的动效
 	// 首先要在返回的数据中增加index2的控制数据点,接着是根据scroll返回值变化颜色的
-	function betterbetter() {
+	function worseworse() {
 		circlesData
 			.transition().duration(600)
 			.delay(function(d,i){
@@ -212,7 +212,7 @@ d3.csv("animaldata.csv",function(error,chartdata){
 				}
 			})
 	};
-	function worseworse() {
+	function betterbetter() {
 		circlesData
 			.transition().duration(600)
 			.delay(function(d,i){
@@ -253,12 +253,12 @@ d3.csv("animaldata.csv",function(error,chartdata){
 	// var scrollindex;
 	function scrollcontroller(scrollindex) {
 		Chartpos(scrollindex);
-		if (scrollindex==2) {
+		if (scrollindex==2) {		
 			betterbetter();
 		}
+
 		else if(scrollindex==3){
 			worseworse();
-			console.log(success);
 		}
 		else if (scrollindex==0) {
 			huifu();
@@ -266,6 +266,7 @@ d3.csv("animaldata.csv",function(error,chartdata){
 		else if (scrollindex==1){
 			huifu();
 		}
+
 		;
 	};
 	// scrollcontroller(scrollindex);
@@ -287,6 +288,13 @@ d3.csv("animaldata.csv",function(error,chartdata){
     console.log($("#chapter1")["0"].clientWidth);
 	new ScrollMagic.Scene({triggerElement: "#trigger1", duration:$(".mainchart")["0"].clientHeight})
 		.setPin("#chartpin",{pushFollowers: !1})
+		.on("progress",function(e){
+			if ( e.progress <1 && e.progress >0 ) {
+				$("#tooo").removeClass("show");
+			}else{
+				$("#tooo").addClass("show");
+			}
+		})
 		.addTo(L);
 
 	var a = new ScrollMagic.Scene({triggerElement: "#trigger2", duration:document.getElementById("trigger2").offsetHeight+0.8*document.documentElement.clientHeight})
@@ -294,13 +302,13 @@ d3.csv("animaldata.csv",function(error,chartdata){
 			scrollcontroller(1)
 		})
 		.on("leave",function(e){
-			if (e.state == "BEFORE") {
-				scrollcontroller(0);
-				console.log(0);
+			if (e.state == "AFTER") {
+				scrollcontroller(2);
+				
 			};
 			console.log(e)
 		})
-		.addTo(C);
+		.addTo(E);
 
 	var a = new ScrollMagic.Scene({triggerElement: "#trigger3", duration:document.getElementById("trigger3").offsetHeight+0.8*document.documentElement.clientHeight})
 		.on("enter",function(e){
@@ -312,5 +320,7 @@ d3.csv("animaldata.csv",function(error,chartdata){
 			};
 			console.log(e)
 		})
-		.addTo(C);
+		.addTo(E);
+
+
 })
