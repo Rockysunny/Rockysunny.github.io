@@ -100,6 +100,13 @@
 			max-width: 470px;
 			margin: 1rem auto;
 		}
+		section h3 {
+			font-size: 1rem;
+			text-align: center;
+			margin-top: 1rem;
+			font-weight: 700;
+			color:#417fad;
+		}
 	
 	#chapter0 {
 		background:  center bottom repeat-x;
@@ -336,7 +343,7 @@ color: white;
         fill: #666;
     }
 	.bar {
-	  fill: #02AAE5;
+	  fill: #417fad;
 	}
 
 	.bar:hover {

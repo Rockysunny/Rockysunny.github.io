@@ -25,7 +25,7 @@ function bubblechart() {
     var bubbles = null;
     var nodes = [];
     // 用来设置引力，pow(x,y) 方法可返回 x 的 y 次幂的值。
-    var colorScale = d3.scaleLinear().range(["#bcd8ff","#0cadfe"]); 
+    var colorScale = d3.scaleLinear().range(["#bcd8ff","#417fad"]); 
     function charge(d) {
     	return -Math.pow(d.radius,2.0) * forceStrength;
     }
@@ -164,9 +164,9 @@ function bubblechart() {
                       .attr('x',width / 2)
                       .attr('y',20)
                       .attr('text-anchor', 'middle')
-                      .attr('fill','#70716f')
-                      .attr('stroke','#70716f')
-                      .text('世界各国与我国签约总量');
+                      .attr('fill','#417fad')
+                      .attr('stroke','#417fad')
+                      .text('中国（大陆地区）31各省人口数与互联网普及率');
         svg.selectAll('.year').remove();}
   	function showYearTitles() {
 	    // Another way to do this would be to create
@@ -179,8 +179,8 @@ function bubblechart() {
 	      .attr('x', function (d) { return yearsTitleX[d]; })
 	      .attr('y', 20)
 	      .attr('text-anchor', 'middle')
-        .attr('fill','#70716f')
-        .attr('stroke','#70716f')
+        .attr('fill','#417fad')
+        .attr('stroke','#417fad')
 	      .text(function (d) { return d; });
       svg.selectAll('.bubbletitle').remove()
 	  }
