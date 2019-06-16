@@ -174,7 +174,7 @@ function makebarchart(){
       .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  d3.csv("data/popinternet", function(error, data) {
+  d3.csv("data/popinternet.csv", function(error, data) {
     data.forEach(function(d){
           d.value = +d.value;    
     })
