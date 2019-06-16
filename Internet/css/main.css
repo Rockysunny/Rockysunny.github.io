@@ -30,7 +30,7 @@
 
 	body {
 		background:#fff;
-		color: #70716f;
+		color:#2a383e;
 		margin:0;
 	}
 	header p{
@@ -49,13 +49,13 @@
 	header #title {
 		background: transparent url("../img/title.jpg") center center no-repeat;
 		background-size: cover;
-		background-position-x: 45%;
+		background-position-x: 50%;
 		display: flex;
 		flex-flow: column;
 		align-items: center;
-		/*justify-content: center;*/
-		min-height: calc(100vh - 10rem);
-		padding: 10rem 0 0 0;
+		justify-content: center;
+		min-height: 100vh;
+		padding: 0;
 	}
 	header #title h1 {
 		font-size: 12.6vmin;
@@ -74,6 +74,7 @@
 		letter-spacing: 1.5vmin;
 		display: block;
 		margin-top: 3vmin;
+		background-color: 
 	}
 
 
@@ -84,6 +85,7 @@
 		padding: 1rem 0 1rem 0;
 	}
 		section h2 {
+			font-family: "trajan-sans-pro", sans-serif;
 			font-weight: 700;
 			font-size: 1.25rem;
 			line-height: 2rem;
@@ -105,7 +107,6 @@
 			text-align: center;
 			margin-top: 1rem;
 			font-weight: 700;
-			color:#417fad;
 		}
 	
 	#chapter0 {
@@ -192,7 +193,7 @@
 
 	footer {
 		font-weight: 500;
-		background: #6a8dad;
+		background: url("../img/china.png") center center no-repeat;
 		color: #fff;
 		margin: 0 auto;
 		font-size: 9pt;
@@ -277,7 +278,10 @@ color: white;
 		background-size: auto 100vh;
 	}
 	#mapsvg path{
-		stroke: white;
+		stroke: grey;
+	}
+	#zhushi {
+		background: url("../img/zhushi.png") center center no-repeat;
 	}
 /*------------------------------------------------------------------------------*/
 	.icon img{

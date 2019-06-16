@@ -164,8 +164,8 @@ function bubblechart() {
                       .attr('x',width / 2)
                       .attr('y',20)
                       .attr('text-anchor', 'middle')
-                      .attr('fill','#417fad')
-                      .attr('stroke','#417fad')
+                      .attr('fill','#2a383e')
+                      .attr('stroke','#2a383e')
                       .text('中国（大陆地区）31各省人口数与互联网普及率');
         svg.selectAll('.year').remove();}
   	function showYearTitles() {
@@ -179,8 +179,8 @@ function bubblechart() {
 	      .attr('x', function (d) { return yearsTitleX[d]; })
 	      .attr('y', 20)
 	      .attr('text-anchor', 'middle')
-        .attr('fill','#417fad')
-        .attr('stroke','#417fad')
+        .attr('fill','#2a383e')
+        .attr('stroke','#2a383e')
 	      .text(function (d) { return d; });
       svg.selectAll('.bubbletitle').remove()
 	  }
